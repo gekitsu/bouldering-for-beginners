@@ -9,3 +9,8 @@ It is not meant to be an exhaustive listing of all tutorials or channels, but ra
 
 `<3` to everyone who makes videos about bouldering or climbing, writes articles, or helps new people in the gym or at the crag.
 You are the best.
+
+## License
+
+This collection is licensed under a Creative Commons Attribution-ShareAlike License.
+See [LICENSE](the LICENSE file) for the exact text.
