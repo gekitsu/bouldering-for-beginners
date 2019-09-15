@@ -13,4 +13,4 @@ You are the best.
 ## License
 
 This collection is licensed under a Creative Commons Attribution-ShareAlike License.
-See [LICENSE](the LICENSE file) for the exact text.
+See [the LICENSE file](LICENSE) for the exact text.
