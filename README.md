@@ -10,6 +10,10 @@ It is not meant to be an exhaustive listing of all tutorials or channels, but ra
 `<3` to everyone who makes videos about bouldering or climbing, writes articles, or helps new people in the gym or at the crag.
 You are the best.
 
+Also, my heartfelt thanks to everyone who sent input my way:
+
+* Herveus (from the Bobat Discord)
+
 ## Contributions
 
 Yes please! While I watch a lot of bouldering videos, I can’t possibly watch all of it. Also, I am most definitely not the last word on what makes a useful tutorial video, so all contributions are welcome!

@@ -42,6 +42,10 @@ Mani also mentions an aspect nobody else picked up on: The ability to pull on so
 **Eric Karlsson Bouldering – Footwork**: [link](https://www.youtube.com/watch?v=oqd39cc0HL0)\
 Good emphasis on putting pressure on your toes, i.e. weighting your feet.
 
+**Geek Climber – 3 Footwork Tips for Beginners**: [link](https://www.youtube.com/watch?v=Vmbhr5i1HHw)\
+Some very actionable pointers for when you incorporated ‘don’t step with the middle of your foot’ into your climbing.
+His points on when to use the inside and outside edges are good goundwork for considering body positioning and some of the techniques outlines in Neil Gresham’s Masterclass linked below.
+
 **Movement for Climbers – Climbing Tips for Short People – Episode 1: High Feet**: [link](https://www.youtube.com/watch?v=JiaDV3BefQg)\
 This one is a bit more specific than the other videos, focussing on the intricacies of placing your feet relatively high.
 Especially useful for short people, but not something tall folks should slouch too much on.
@@ -121,6 +125,16 @@ Louis is not only a tremendously strong boulderer, he also has a knack for comin
 
 **Bouldering Bobat – Dynos 101**: [link](https://www.youtube.com/watch?v=3Q6hV7IXfM0)\
 Jake is the Bobats’ dyno master, and he shows a nice progression to go from moving both hands at the same time to full-blown double dynos step by step.
+
+## A Bit of Everything
+
+Some videos contain a lot of useful tips without a unifying topic to them.
+Because they don’t really fit in any category, but it would be a shame to leave them out, they go here.
+
+**rockentry – 6 Climbing Tips Taught by a Pro Climber**: [link](https://www.youtube.com/watch?v=r-c4XCBNYY0)\
+rockentry’s Oswaldo gets tips from Paul Robinson.
+There are some good body positioning pointers for slab in there, as well as notes for general climbing process, and for what to do when difficult/long moves require more precision.
+It’s probably a better video for when you gathered a bit of experience already, as it benefits a lot from being able to know the difficulties that these tips address.
 
 ## Things & Gear
 
