@@ -44,7 +44,7 @@ Good emphasis on putting pressure on your toes, i.e. weighting your feet.
 
 **Geek Climber – 3 Footwork Tips for Beginners**: [link](https://www.youtube.com/watch?v=Vmbhr5i1HHw)\
 Some very actionable pointers for when you incorporated ‘don’t step with the middle of your foot’ into your climbing.
-His points on when to use the inside and outside edges are good goundwork for considering body positioning and some of the techniques outlines in Neil Gresham’s Masterclass linked below.
+His points on when to use the inside and outside edges are good goundwork for considering body positioning and some of the techniques outlined in Neil Gresham’s Masterclass linked below.
 
 **Movement for Climbers – Climbing Tips for Short People – Episode 1: High Feet**: [link](https://www.youtube.com/watch?v=JiaDV3BefQg)\
 This one is a bit more specific than the other videos, focussing on the intricacies of placing your feet relatively high.
