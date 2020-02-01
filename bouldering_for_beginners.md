@@ -12,6 +12,10 @@ The most general kind of tutorial video.
 You will not be getting anything comprehensive out of these, but in the very very beginning, too much information can be overwhelming.
 These make a very good base for just starting out.
 
+**Movement for Climbers – Bouldering Progression Series. Novice**: [link](https://www.youtube.com/watch?v=tJNAC9zi8gg)\
+A very well put together bundle of things for the start of your bouldering journey.
+It’s compact enough that you can keep it all in mind, yet a solid toolkit for easy climbs.
+
 **Bouldering Bobat – Top 10 Tips for Beginner Boulderers**: [link](https://www.youtube.com/watch?v=b2v4brHpdxY)\
 What it says on the tin.
 A solid allround arsenal of pointers for when you’re starting out.
