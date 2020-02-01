@@ -68,6 +68,10 @@ A run-down of indoor climbing hold types and how to deal with them.
 This video segues partly into body positioning territory and has some info on footholds as well.
 I still put it here because I feel it functionally ties together what you learned about gripping techniques and hold types in the other tutorials.
 
+**Movement for Climbers – Body Positioning for Sidepulls & Underclings**: [link](https://www.youtube.com/watch?v=Efaca9KZj8A)\
+Similar to Mani’s video on directional loading, this video is about the combination of handhold and body position.
+Very much worth a watch if holds that aren’t facing straight up are giving you trouble.
+
 ### Hips/Body Positioning Tutorials
 
 **Eric Karlsson Bouldering – Hips**: [link](https://www.youtube.com/watch?v=jbj7XMLOWgE)\
