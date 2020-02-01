@@ -13,13 +13,15 @@ You will not be getting anything comprehensive out of these, but in the very ver
 These make a very good base for just starting out.
 
 **Bouldering Bobat – Top 10 Tips for Beginner Boulderers**: [link](https://www.youtube.com/watch?v=b2v4brHpdxY)\
-What it says on the tin. A solid allround arsenal of pointers for when you’re starting out.
+What it says on the tin.
+A solid allround arsenal of pointers for when you’re starting out.
 
 **Jenn Sends – 5 Tips for Starting Out**: [link](https://www.youtube.com/watch?v=Si62hwththk)\
 Mostly mindset, some essential gear, and small hacks to ease your first steps.
 
 **Jenn Sends – Top 10 Beginner Mistakes When Bouldering**: [link](https://www.youtube.com/watch?v=X6amIETSr-U)\
-Mainly technique & etiquette. A good list to check yourself against after getting into a bouldering routine.
+Mainly technique & etiquette.
+A good list to check yourself against after getting into a bouldering routine.
 
 ## General Technique Videos
 
