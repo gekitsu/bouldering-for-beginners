@@ -238,6 +238,10 @@ Catchphrase: The sound of Magnus chalking up.
 
 ### Channels Run by Women
 
+**Anna Davey**: [link](https://www.youtube.com/channel/UCN6M0uYYyYMdZUHrYY3b3Yw)\
+Anna of the impossibly shredded abs, former disciple of iron, first of her name, is a world cup competition climber from Australia and makes climbing videos with her husband, Tom Kaskow.
+Come for the sends, stay for their banter.
+
 **Bouldering Dabrats**: [link](https://www.youtube.com/channel/UCLze_9DjASz_ZxB7UTt2Alw)\
 Annie and Di from London are friends of the Bobats, just as goofy, and an absolute joy to watch!
 Also interesting for climbers at either end of the body height spectrum, as Annie and Di frequently have to find tall-girl and short-girl beta for their climbs.
@@ -255,6 +259,10 @@ Hannah from the UK is making videos that are heavier on outdoor bouldering than 
 **Adam Ondra**: [link](https://www.youtube.com/channel/UC8eNyF9eYwgr_K-Nl4gSHWw)\
 Probably the world’s best climber right now.
 In the march up to the Tokyo 2020 olympics, he launched a weekly video series called ‘Road to Tokyo’.
+
+**Albert Ok**: [link](https://www.youtube.com/channel/UCUqIRJJJeKgbuNAPTl_Afig)\
+Albert is a competition climber and former coach who makes videos focused on technique and training to improve your technique.
+Especially his ‘Beta Break’ series is very informative for climbers of all levels – even if you have no chance (yet!) of pulling off the moves shown, the level of detailed technique analysis can’t not benefit you.
 
 **Andrew MacFarlane**: [link](https://www.youtube.com/user/AndrewGMacFarlane)\
 A canadian living in London.
