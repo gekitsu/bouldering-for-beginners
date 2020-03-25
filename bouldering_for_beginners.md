@@ -246,13 +246,13 @@ Come for the sends, stay for their banter.
 Annie and Di from London are friends of the Bobats, just as goofy, and an absolute joy to watch!
 Also interesting for climbers at either end of the body height spectrum, as Annie and Di frequently have to find tall-girl and short-girl beta for their climbs.
 
+**Hannah Morris**: [link](https://www.youtube.com/user/hcemorris)\
+Hannah from the UK is making videos that are heavier on outdoor bouldering than the others, and with very a pleasant, storytelling-heavy style.
+
 **Jenn Sends**: [link](https://www.youtube.com/channel/UCaQ7laUNRnsAwk6KbPwtJIg)\
 Jenn from LA, California is really good at giving off chill welcoming vibes.
 Big recommendation for everyone, especially people just starting out and people with an interest in maybe tackling outdoor bouldering one day.
 She has a knack for making tips videos that sound like advice given by your bouldering big sister, not stone tablets handed down from the mountains of climbing godhood.
-
-**Hannah Morris**: [link](https://www.youtube.com/user/hcemorris)\
-Hannah from the UK is making videos that are heavier on outdoor bouldering than the others, and with very a pleasant, storytelling-heavy style.
 
 ### Everything Else Worth Checking Out
 
