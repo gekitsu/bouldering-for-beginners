@@ -242,6 +242,10 @@ Catchphrase: The sound of Magnus chalking up.
 Anna of the impossibly shredded abs, former disciple of iron, first of her name, is a world cup competition climber from Australia and makes climbing videos with her husband, Tom Kaskow.
 Come for the sends, stay for their banter.
 
+**Anna Hazelnutt**: [link](https://www.youtube.com/channel/UCyGqObd717uKwGWf_KdNbXw)\
+Anna describes her channel as climbing, van life, travel, and shenanigans.
+It is an apt description, and totally worth checking out for its charm and heart.
+
 **Bouldering Dabrats**: [link](https://www.youtube.com/channel/UCLze_9DjASz_ZxB7UTt2Alw)\
 Annie and Di from London are friends of the Bobats, just as goofy, and an absolute joy to watch!
 Also interesting for climbers at either end of the body height spectrum, as Annie and Di frequently have to find tall-girl and short-girl beta for their climbs.
@@ -284,3 +288,7 @@ Climbing news, events, sick sends, and gear news.
 **The IFSC**: [link](https://www.youtube.com/user/ifscchannel)\
 The International Federation of Sport Climbing.
 Now that climbing is getting bigger as an international competition sport, this is your place if you want to watch the world’s comp elite battle it out in bouldering, sport, and speed climbing.
+
+**Wide Boyz**: [link](https://www.youtube.com/c/WideBoyz)\
+Tom Randall and Pete Whittaker are among the world’s strongest climbers of rock cracks – any angle and any width, from fitting a single finger to half a body, chances are these two can climb up it.
+They are singularly focused on a style of climbing you are unlikely to see too much of in gyms.
