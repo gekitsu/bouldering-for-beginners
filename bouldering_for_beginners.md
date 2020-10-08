@@ -45,8 +45,8 @@ Many of the more beginner-relevant issues Magnus covers, but less terse and a bi
 Another take on the very basics of footwork.
 Mani also mentions an aspect nobody else picked up on: The ability to pull on some footholds.
 
-**Eric Karlsson Bouldering – Footwork**: [link](https://www.youtube.com/watch?v=oqd39cc0HL0)\
-Good emphasis on putting pressure on your toes, i.e. weighting your feet.
+**Lattice Training – Rock Climbing Footwork Technique: Beginner Level & Basics**: [link](https://www.youtube.com/watch?v=KoTG-0_smTE)\
+One more take on the basics of stepping with the toe, smearing, and heel hooking, this time by Lattice Training’s Tom Randall.
 
 **Geek Climber – 3 Footwork Tips for Beginners**: [link](https://www.youtube.com/watch?v=Vmbhr5i1HHw)\
 Some very actionable pointers for when you incorporated ‘don’t step with the middle of your foot’ into your climbing.
