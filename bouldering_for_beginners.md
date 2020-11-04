@@ -146,6 +146,10 @@ rockentry’s Oswaldo gets tips from Paul Robinson.
 There are some good body positioning pointers for slab in there, as well as notes for general climbing process, and for what to do when difficult/long moves require more precision.
 It’s probably a better video for when you gathered a bit of experience already, as it benefits a lot from being able to know the difficulties that these tips address.
 
+**Bouldering Bobat – Climb Like Louis Parkinson With Three Simple Drills**: [link](https://www.youtube.com/watch?v=bdC-INxsVs0)\
+Louis is joining the Bobats to demonstrate three movement drills you can incorporate into your warmup climbing to improve your awareness of movement and body positioning.
+One of them is the limb elimination drill also seen above in Andrew MacFarlane’s video with Louis on dynamic climbing.
+
 ## Things & Gear
 
 Bouldering, especially indoors, doesn’t require as much gear as any other climbing discipline.
