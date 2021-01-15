@@ -13,6 +13,7 @@ You are the best.
 Also, my heartfelt thanks to everyone who sent input my way:
 
 * Herveus (from the Bobat Discord)
+* Beardedbeer & Oats (from the Bobat Discord)
 
 ## Contributions
 
