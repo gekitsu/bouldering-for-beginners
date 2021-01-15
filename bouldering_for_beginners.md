@@ -289,9 +289,17 @@ Emil is a member of the EKB crew and posts mostly outdoor bouldering on his own 
 A climbing focussed programme run by EpicTV, a climbing and outdoor online shop.
 Climbing news, events, sick sends, and gear news.
 
+**Hooper’s Beta**: [link](https://www.youtube.com/c/HoopersBeta)\
+Dr. Jason Hooper and Emile Modesitt have helpful information for climbers on things like injuries, exercise, physical health, and technique.
+It pays off keeping an eye on these before you get injured. ;)
+
 **The IFSC**: [link](https://www.youtube.com/user/ifscchannel)\
 The International Federation of Sport Climbing.
 Now that climbing is getting bigger as an international competition sport, this is your place if you want to watch the world’s comp elite battle it out in bouldering, sport, and speed climbing.
+
+**mellow**: [link](https://www.youtube.com/c/mellowclimbing)\
+An outdoor focussed channel started by bouldering powerhouses Shawn Raboutou, Giuliano Cameroni, Jimmy Webb, Keenan Takahashi, Kevin Takashi Smith, and Daniel Woods.
+These folks are the real deal.
 
 **Wide Boyz**: [link](https://www.youtube.com/c/WideBoyz)\
 Tom Randall and Pete Whittaker are among the world’s strongest climbers of rock cracks – any angle and any width, from fitting a single finger to half a body, chances are these two can climb up it.
