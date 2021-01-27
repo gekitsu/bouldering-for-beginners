@@ -150,6 +150,11 @@ It’s probably a better video for when you gathered a bit of experience already
 Louis is joining the Bobats to demonstrate three movement drills you can incorporate into your warmup climbing to improve your awareness of movement and body positioning.
 One of them is the limb elimination drill also seen above in Andrew MacFarlane’s video with Louis on dynamic climbing.
 
+**Emil Abrahamsson – These 4 Climbing Techniques Will Help You Improve**: [link](https://www.youtube.com/watch?v=ykMApVq78JM)\
+Emil is giving you a systematic run-down on engaging your hips, visualising before getting on the wall, using drop knees, and doing dynos that allows you to really think about where to integrate them into your climbing and why.
+This might be one of those things that won’t immediately change your climbing, especially when you’re just starting out.
+But instead, it will help you improve your approach and habits, and pay off over time.
+
 ## Things & Gear
 
 Bouldering, especially indoors, doesn’t require as much gear as any other climbing discipline.
