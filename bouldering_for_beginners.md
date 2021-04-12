@@ -209,6 +209,11 @@ Eventually, you’ll notice that you would benefit from a more organised, brainy
 The Bobats made this pair of videos to tackle 1) how to decipher what to do with the holds on the wall, and 2) how to effectively work on solving hard projects.
 It’s invaluable once you start really wanting to send a specific boulder and it keeps not happening.
 
+**Anna Hazelnutt – How to Break Down (and Send) Your Climbing Project**: [link](https://www.youtube.com/watch?v=woqh_uxlriw)\
+This is a good short companion to the Bouldering Bobat videos on projecting above.
+Anna quickly shows her general stepwise process of tackling hard boulder problems, and then walks you through the solution she arrived at for a tricky slab boulder.
+Very useful for the level of detail in her narration of the beta she worked out.
+
 **Jenn Sends – Getting Over the Fear of Falling (bouldering)**: [link](https://www.youtube.com/watch?v=ZFvRr-IeDnA)\
 This is a big topic that is likely to come up sooner or later in your bouldering career.
 Jenn goes over the basics in an approachable and structured way, and compiled a [playlist](https://www.youtube.com/playlist?list=PLfbHmBfB2hVXnVZhfEHv1PJfvChOdQbVA) of falling-related videos for you to get insight from more than one point of view.
