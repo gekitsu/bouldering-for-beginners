@@ -272,6 +272,11 @@ Jenn from LA, California is really good at giving off chill welcoming vibes.
 Big recommendation for everyone, especially people just starting out and people with an interest in maybe tackling outdoor bouldering one day.
 She has a knack for making tips videos that sound like advice given by your bouldering big sister, not stone tablets handed down from the mountains of climbing godhood.
 
+**Sofya Yokoyama**: [link](https://www.youtube.com/channel/UCZ4_7FcmF_Kahg05ppmzL7g)\
+Sofya climbs on the Swiss national team and was also featured in a collaboration with Eric Karlsson Bouldering a while ago.
+On her own channel, she aims to update once per week with videos about climbing and training.
+She is also absurdly strong.
+
 ### Everything Else Worth Checking Out
 
 **Adam Ondra**: [link](https://www.youtube.com/channel/UC8eNyF9eYwgr_K-Nl4gSHWw)\
