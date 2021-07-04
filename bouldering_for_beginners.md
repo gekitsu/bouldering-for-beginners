@@ -155,6 +155,10 @@ Emil is giving you a systematic run-down on engaging your hips, visualising befo
 This might be one of those things that won’t immediately change your climbing, especially when you’re just starting out.
 But instead, it will help you improve your approach and habits, and pay off over time.
 
+**Bouldering Bobat – Climbing Tips for Shorter People ft. Xian**: [link](https://www.youtube.com/watch?v=la2Gil65fXk)\
+Xian is joining Omar for some technique pointers how shorter climbers can improve their reach.
+Definitely worth a watch, also for taller folks.
+
 ## Things & Gear
 
 Bouldering, especially indoors, doesn’t require as much gear as any other climbing discipline.
