@@ -320,6 +320,10 @@ Now that climbing is getting bigger as an international competition sport, this 
 An outdoor focussed channel started by bouldering powerhouses Shawn Raboutou, Giuliano Cameroni, Jimmy Webb, Keenan Takahashi, Kevin Takashi Smith, and Daniel Woods.
 These folks are the real deal.
 
+**Tomoa / Akiyo / Ikedai**: [link](https://www.youtube.com/channel/UCx3XxWczzWgm1bLmgdeQJMw)\
+A channel run by japanese top climbers Tomoa Narasaki, Akiyo Noguchi, and Yudai ‘Ikedai’ Ikeda.
+They have a good mix of tutorial-style and personal/fun videos, all with english subtitles.
+
 **Wide Boyz**: [link](https://www.youtube.com/c/WideBoyz)\
 Tom Randall and Pete Whittaker are among the world’s strongest climbers of rock cracks – any angle and any width, from fitting a single finger to half a body, chances are these two can climb up it.
 They are singularly focused on a style of climbing you are unlikely to see too much of in gyms.
