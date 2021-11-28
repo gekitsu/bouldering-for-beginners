@@ -136,6 +136,17 @@ Louis is not only a tremendously strong boulderer, he also has a knack for comin
 **Bouldering Bobat – Dynos 101**: [link](https://www.youtube.com/watch?v=3Q6hV7IXfM0)\
 Jake is the Bobats’ dyno master, and he shows a nice progression to go from moving both hands at the same time to full-blown double dynos step by step.
 
+### Slopers
+
+Slopers are those bigger, often rounded handholds that don’t provide a clear edge you’re supposed to grab.
+When you’re stuck not knowing where and how to grab them except putting your hand on top and finding it impossible to keep it from sliding off, and what other factors go into making them much more holdable, they can be a stumbling block in your climbing for sure.
+Especially because people who know how to climb well on them will make it look too effortless to pick up what’s going on.
+The concepts in the tutorials on body positioning and hold direction also are worth revisiting to improve your sloper game.
+
+**Emil Abrahamsson – 7 Lessons to Help You Improve on Slopers**: [link](https://www.youtube.com/watch?v=rymuacrKR70)\
+Emil gives a list of pointers that address the technical aspects of just strictly hanging off a slopy hold and more general technique pointers on how to deal with slopers in the context of a bouldering problem, as well as some training advice.
+Especially the techniques are something you can put into action right away.
+
 ## A Bit of Everything
 
 Some videos contain a lot of useful tips without a unifying topic to them.
