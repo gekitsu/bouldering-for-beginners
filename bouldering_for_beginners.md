@@ -197,6 +197,9 @@ Given that they are important, and that there are mistakes (like a misjudged fit
 **Eric Karlsson Bouldering – Shoes**: [link](https://www.youtube.com/watch?v=QBxukNzgjDg)\
 A good primer on what to look for in beginner shoes.
 
+**Catalyst Climbing – Guide to Climbing Shoes**: [link](https://www.youtube.com/watch?v=CYTYTTpUaLI)\
+Catalyst’s Louis Parkinson is presenting a good overview over different types of shoes and their different strengths, as well as a very reasonable approach to a different to convey topic – how much to downsize your shoes.
+
 **Jenn Sends – The Tea on All My Climbing Shoes**: [link](https://www.youtube.com/watch?v=zTqHD8LecXE)\
 Another good Jenn Sends compilation of general knowledge.
 She includes links to other videos and websites, and even compiled a playlist of good shoe-related videos she found.
