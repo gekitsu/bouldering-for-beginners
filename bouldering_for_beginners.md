@@ -278,7 +278,7 @@ Come for the sends, stay for their banter.
 Anna describes her channel as climbing, van life, travel, and shenanigans.
 It is an apt description, and totally worth checking out for its charm and heart.
 
-**Bouldering Dabrats**: [link](https://www.youtube.com/channel/UCLze_9DjASz_ZxB7UTt2Alw)\
+**Bouldering Dabrats**: [link](https://www.youtube.com/channel/UCLze_9DjASz_ZxB7UTt2Alw) (**april 2022: officially on hiatus**)\
 Annie and Di from London are friends of the Bobats, just as goofy, and an absolute joy to watch!
 Also interesting for climbers at either end of the body height spectrum, as Annie and Di frequently have to find tall-girl and short-girl beta for their climbs.
 
