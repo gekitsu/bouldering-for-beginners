@@ -328,7 +328,9 @@ It pays off keeping an eye on these before you get injured. ;)
 
 **The IFSC**: [link](https://www.youtube.com/user/ifscchannel)\
 The International Federation of Sport Climbing.
-Now that climbing is getting bigger as an international competition sport, this is your place if you want to watch the world’s comp elite battle it out in bouldering, sport, and speed climbing.
+Now that climbing is getting bigger as an international competition sport, this is your place if you want to watch the world’s comp elite battle it out in bouldering, sport, and speed climbing.\
+As of the 2022 Season, IFSC competitions will be region-locked and only available for free outside of Europe.
+For details about the licensing situation, read [this UKC article](https://www.ukclimbing.com/news/2022/03/ifsc_announces_3-year_subscription-based_broadcast_deal_with_discovery_sports-73019).
 
 **mellow**: [link](https://www.youtube.com/c/mellowclimbing)\
 An outdoor focussed channel started by bouldering powerhouses Shawn Raboutou, Giuliano Cameroni, Jimmy Webb, Keenan Takahashi, Kevin Takashi Smith, and Daniel Woods.
