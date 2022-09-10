@@ -240,6 +240,11 @@ Jenn goes over the basics in an approachable and structured way, and compiled a 
 MvC is quoting Bruce Lee on instinct and control as the elements of a dichotomy on how to approach an activity.
 Once you have a little experience under your belt, I think this provides an interesting tool to analyse your climbing mind game for areas to improve.
 
+**Dave MacLeod – How to Learn Climbing Technique**: [link](https://www.youtube.com/watch?v=XdSTJBe8Fd4)\
+This is a good video to watch when you’re starting to set your sights to progress beyond being a beginner.
+It outlines many factors concerning one’s approach to climbing and how to get the most improvement out of what you’re doing.
+As Dave mentions in the video a couple of times, he goes in depth on this subject in his book ‘9 Out of 10 Climbers Make the Same Mistakes’, which is one of the books you can come back to repeatedly and always find a new bit of valuable advice you hadn’t seen there before.
+
 ## Good Youtube Channels to Follow
 
 Sometimes, the best learning comes from just watching other people climb.
