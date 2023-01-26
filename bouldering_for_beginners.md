@@ -194,8 +194,9 @@ Is there any other gear item as obsessed over in excruciating detail as what we 
 I don’t think so.
 Given that they are important, and that there are mistakes (like a misjudged fit – this one is especially relevant when you are a beginner) that can be very consequential for your climbing, they are definitely worth discussing.
 
-**Eric Karlsson Bouldering – Shoes**: [link](https://www.youtube.com/watch?v=QBxukNzgjDg)\
-A good primer on what to look for in beginner shoes.
+**Hannah Morris – How to Choose the Best Climbing Shoes 2023**: [link](https://www.youtube.com/watch?v=CyeojaKzrDg)\
+Hannah is visiting a knowledgeable shoe salesman to get a thorough and understandable introduction to all things climbing shoes.
+Excellent primer!
 
 **Catalyst Climbing – Guide to Climbing Shoes**: [link](https://www.youtube.com/watch?v=CYTYTTpUaLI)\
 Catalyst’s Louis Parkinson is presenting a good overview over different types of shoes and their different strengths, as well as a very reasonable approach to a different to convey topic – how much to downsize your shoes.
