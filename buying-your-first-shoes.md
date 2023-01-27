@@ -60,3 +60,18 @@
 	* do: buy at the store where a staff member took their time helping you – don’t be that person
 	* don’t: think that you ought to buy (or have no business buying) certain models of shoes because you’re a beginner – there are reasons for/against certain types of shoes, but fit is paramount.
 	* don’t: think you have to get a certain level of toes-crammed-tight fit right away (or downsize the number of sizes ‘everybody knows’ you have to do in that brand) – you’re doing yourself a favour easing into this over the course of a few pairs of shoes
+
+## Down the Road
+
+* shoe care basics
+	* don’t keep the shoes in your bag, let them dry and air out
+	* clean feet are an advantage
+	* it’s easier to keep ahead of stink than to fix it when it happens
+	* many many factors in shoes becoming smelly, so hard to have a one-size-fits-all solution
+* resoling
+	* what is resoling
+	* why resole
+	* when to send your shoes off for a resole
+* cycling through multiple pairs
+	* what’s the use? gets more life out of your shoes
+	* a possible consideration for your second shoe, given certain circumstances
