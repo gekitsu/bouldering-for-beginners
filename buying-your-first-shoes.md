@@ -12,11 +12,25 @@
 
 ## Feet and How They Relate to Climbing Shoes
 
-* shoe size: only length (to complicate matters: different brands fit large or small)
-* width: wide to narrow, forefoot and heel
-* volume: think ‘foot height’ or ‘flatness’, sometimes mild crossover into width (as more width = more displacement)
-* toe profile: several common ones, every brand deals with this differently
-* men’s vs women’s? often a conglomerate of factors: women’s models generally a narrower, lower volume foot, AND ALSO softer or built for less body weight
+### Shoe Size
+
+* only length (to complicate matters: different brands fit large or small)
+
+### Width
+
+* wide to narrow, forefoot and heel
+
+### Volume
+
+* think ‘foot height’ or ‘flatness’, sometimes mild crossover into width (as more width = more displacement)
+
+### Toe Profile
+
+* several common ones, every brand deals with this differently
+
+### Men’s & Women’s? What’s the Deal?
+
+* often a conglomerate of factors: women’s models generally a narrower, lower volume foot, AND ALSO softer or built for less body weight
 
 ## Anatomy of a Climbing Shoe
 
