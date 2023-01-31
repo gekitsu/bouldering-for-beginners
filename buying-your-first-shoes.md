@@ -47,7 +47,21 @@ A given model might accomodate a spectrum of forefoot or heel widths, but if you
 
 ### Volume
 
-* think ‘foot height’ or ‘flatness’, sometimes mild crossover into width (as more width = more displacement)
+We all know shoe size from buying sneakers and foot width is as straightforward and descriptive as it gets, but volume is neither an intuitive measurement nor something one has necessarily encountered before.
+
+Volume describes, in simple terms, the *height* of your foot.
+Think the difference between your foot’s instep making a steeper or flatter incline.
+You could also think of volume as the difference that makes a foot of a certain length and width take up more or less space.
+
+To make matters worse, while shoe size has established measuring systems and width has rarely-used ones, there is no measurement scale for foot volume.
+The only guideline I have been able to find was advice from a ski boot fitter:
+If you take a tape measure from the inside rear of your heel over your instep and around to the outside rear of your heel, a length of around your foot length (plus/minus 1 cm or 1/2″) is a medium foot volume.
+A length larger or shorter than that indicates a high or volume foot.
+
+But all these are mere guidelines, not definite measurements.
+It is more important to be aware that feet differ in volume and being too high or too low volume is a way a shoe can not fit your foot well.
+If the shoe model you are trying on comes in a high volume and low volume version, you can use that choice to dial fit.
+If it does not and volume is off by too much, that shoe does not fit your feet.
 
 ### Toe Profile
 
