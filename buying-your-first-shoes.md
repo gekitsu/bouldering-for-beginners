@@ -68,7 +68,18 @@ You can have pronounced arches and your feet are still low volume just as well a
 
 ### Toe Profile
 
-* several common ones, every brand deals with this differently
+The proportions of your toes can influence shoe fit, but this is not a cut and dry affair.
+
+Generally speaking, there is no agreed-upon list of ‘foot types’ and their names.
+What this is all about is the relative lengths of your toes.
+In some people, the big toe is the longest and each neighboring toe is successively shorter, while others have a longer second toe, or not that much length difference between their toes at all.
+
+While it is somewhat obvious that when we want to fit shoes with toes touching the front, the shape your toes make has something to do with the shape of toe box they fit well into, don’t be too predictive!
+For example, it is possible to have a longer second toe, but it has so much range of motion that it comfortably makes your feet fit into a very pointy toe box with the point at your big toe.
+
+If in doubt, always try shoes on and see how they feel.
+But it is useful to keep in mind that mismatching toes and toe box can leave empty space in front of some toes or push too painfully against others.
+Both of these should be avoided, especially the latter.
 
 ### Men’s & Women’s? What’s the Deal?
 
