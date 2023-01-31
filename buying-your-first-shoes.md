@@ -14,7 +14,22 @@
 
 ### Shoe Size
 
-* only length (to complicate matters: different brands fit large or small)
+Shoe size is probably the factor of shoe fit you’re most familiar with.
+It measures your foot’s length from the rearmost part of the heel to the most forward point of your toes.
+Across the world, several different measuring systems for shoe size are in use, such as the Paris point system in Europe and barleycorn-based systems in the United Kingdom and the United States.
+
+Shoe size is a very obvious and necessary factor in fitting shoes, but for climbing shoes, merely finding the correct shoe length is not sufficient.
+If, for example, a shoe is too wide or narrow, no amount of finding the right size will make it fit well.
+
+Furthermore, Shoe size is not a measure you determine once and you’re good.
+In non-climbing shoes, manufacturers can use shoe size to describe the average foot length for which a shoe is deemed suitable, the length of the shoe’s inside cavity, or the length of the last the shoe was built on.
+Depending on which sizing system a manufacturer is building shoes in ‘natively,’ size conversions to other systems may also be off by small degrees.
+
+In climbing shoes specifically, how your street shoe size relates to climbing shoe size varies *greatly* between brands.
+Knowing that you got a great fit in one manufacturer’s EU size 40, another manufacturer’s shoes might fit you well 3 EU sizes (~2 UK/US sizes) off from that.
+For building up your experience of fitting climbing shoes, you’ll do well thinking of shoe size in terms of which *size* of what *brand* gave you what *sort of fit*.
+
+But in general, it almost always pays off to try on several sizes of a given model to really find the one that is best for you.
 
 ### Width
 
