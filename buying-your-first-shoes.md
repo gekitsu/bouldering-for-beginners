@@ -33,7 +33,17 @@ But in general, it almost always pays off to try on several sizes of a given mod
 
 ### Width
 
-* wide to narrow, forefoot and heel
+In addition to their length, feet can also be described by their width.
+Commonly, this refers to the maximum width a foot reaches, across the forefoot, but whether you have wide or narrow heels is also a consideration.
+
+Unlike shoe size, width is rarely described with a measuring system.
+(Although such systems exist!
+You can look up the Mondopoint system and the Brannock Device on Wikipedia for further information.)
+Rather, shoes are said to fit more on the wide or the narrow side, and you have to see for yourself whether they are any good for you.
+
+This is a crucial difference to shoe size:
+While you can have the same model of shoe in multiple sizes and see which one is the correct length for your feet, shoe models don’t usually come in different widths for you to try out.
+A given model might accomodate a spectrum of forefoot or heel widths, but if your foot still has sideways wiggle room in a correctly chosen size, that model does not fit your feet and you will have to find another one.
 
 ### Volume
 
