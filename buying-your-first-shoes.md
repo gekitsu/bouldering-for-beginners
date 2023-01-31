@@ -63,6 +63,9 @@ It is more important to be aware that feet differ in volume and being too high o
 If the shoe model you are trying on comes in a high volume and low volume version, you can use that choice to dial fit.
 If it does not and volume is off by too much, that shoe does not fit your feet.
 
+Note that height of the foot at the instep – the top of your foot – is not the same thing as the height of your sole’s arch.
+You can have pronounced arches and your feet are still low volume just as well as flat feet can be high volume.
+
 ### Toe Profile
 
 * several common ones, every brand deals with this differently
