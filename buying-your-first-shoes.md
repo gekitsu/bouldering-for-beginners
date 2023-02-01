@@ -74,7 +74,7 @@ Generally speaking, there is no agreed-upon list of ‘foot types’ and their n
 What this is all about is the relative lengths of your toes.
 In some people, the big toe is the longest and each neighboring toe is successively shorter, while others have a longer second toe, or not that much length difference between their toes at all.
 
-While it is somewhat obvious that when we want to fit shoes with toes touching the front, the shape your toes make has something to do with the shape of toe box they fit well into, don’t be too predictive!
+While it is somewhat obvious that when we want to fit shoes with toes touching the front, the shape your toes make has something to do with the shape the shoe should have, don’t be too prescriptive about this!
 For example, it is possible to have a longer second toe, but it has so much range of motion that it comfortably makes your feet fit into a very pointy toe box with the point at your big toe.
 
 If in doubt, always try shoes on and see how they feel.
