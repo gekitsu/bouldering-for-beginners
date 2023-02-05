@@ -84,28 +84,59 @@ If in doubt, always try shoes on and see how they feel.
 But it is useful to keep in mind that mismatching toes and toe box can leave empty space in front of some toes or push too painfully against others.
 Both of these should be avoided, especially the latter.
 
-### Men’s & Women’s? What’s the Deal?
-
-* often a conglomerate of factors: women’s models generally a narrower, lower volume foot, AND ALSO softer or built for less body weight
-
 ## Anatomy of a Climbing Shoe
 
 ### Parts
 
+#### Outer
+
 * outer (materials)
-* closure system
+
+#### Midsole
+
 * midsole
+
+#### Outsole
+
 * outsole
+
+#### Closing System
+
+* closure system
+
+#### Rand
+
 * rand
-* optionals: toehook patch
+
+#### Heel Cup
+
 * optionals: molded heel cup
+
+#### Toehook Patch
+
+* optionals: toehook patch
 
 ### Design Factors
 
+#### Downturn
+
 * downturn
+
+#### Asymmetry
+
 * asymmetry
-* support/stiffness/softness
+
+#### Stiffness
+
+* support/stiffness/softness (how stiff midsole, stiffness where in the foot)
+
+#### Toebox
+
 * toebox (made to fit which toe profile, meant to fit with flatter vs more crimped toes)
+
+#### Men’s & Women’s? What’s the Deal?
+
+* often a conglomerate of factors: women’s models generally a narrower, lower volume foot, AND ALSO softer or built for less body weight
 
 ## How to choose Your First Shoe
 
