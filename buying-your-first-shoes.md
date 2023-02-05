@@ -12,6 +12,9 @@
 
 ## Feet and How They Relate to Climbing Shoes
 
+Since a good fit is about matching shoes to feet, knowing about the shape of your feet is an important factor.
+If you have been able to choose shoes on your shoe size alone so far, you should definitely consider thinking of your feet in terms of their width, volume, and overall shape, instead of just their length.
+
 ### Shoe Size
 
 Shoe size is probably the factor of shoe fit you’re most familiar with.
