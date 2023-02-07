@@ -86,57 +86,81 @@ Both of these should be avoided, especially the latter.
 
 ## Anatomy of a Climbing Shoe
 
+* shoes are built on a last, a sort of foot dummy akin to a sewing body form/mannequin
+* the shape of this last influences the fit and design of the shoe, as well as the choices of parts
+
 ### Parts
+
+* the parts that go into assembling a shoe on its last
+* useful for more identifying parts, more precise talk, deciphering reviews
 
 #### Outer
 
-* outer (materials)
+* what is the outer
+* different materials
 
 #### Midsole
 
-* midsole
+* what is the midsole
+* shape vs material
 
 #### Outsole
 
-* outsole
+* what is the outsole
+* different designs (full sole, split sole)
+* thickness
+* rubber compounds
 
 #### Closing System
 
-* closure system
+* different closure systems
 
 #### Rand
 
 * rand
+* tensioning system
 
 #### Heel Cup
 
-* optionals: molded heel cup
+* heelwards part of the sole
+* or, optionally: molded heel cup
 
 #### Toehook Patch
 
-* optionals: toehook patch
+* optionally: toehook patch
 
 ### Design Factors
 
+* mostly properties of the last that influence the design of the shoe
+* also properties derived from choices in the parts
+
 #### Downturn
 
-* downturn
+* what is downturn: downwards banana shape to improve abilty to toe down on small holds in overhangs and pull on them
 
 #### Asymmetry
 
-* asymmetry
+* what is asymmetry
+* part toebox shape
+* part sideways banana shape exerting extra sideways pressure on the foot at the outside of the tip towards the big toe, the outside of the heel, and the inside of the midfoot
 
 #### Stiffness
 
-* support/stiffness/softness (how stiff midsole, stiffness where in the foot)
+* support/stiffness vs softness/sensitivity
+* stiffness of the midsole material
+* stiffness where in the foot, due to midsole shape
 
 #### Toebox
 
-* toebox (made to fit which toe profile, meant to fit with flatter vs more crimped toes)
+* what is the toebox
+* made to fit which toe profile
+* meant to fit with flatter vs more crimped toes
 
 #### Men’s & Women’s? What’s the Deal?
 
 * often a conglomerate of factors: women’s models generally a narrower, lower volume foot, AND ALSO softer or built for less body weight
+* AND ALSO usually only available in smaller sizes
+* fortunately, at the time of writing, the trend goes strongly towards ungendered high/low volume models instead
 
 ## How to choose Your First Shoe
 
