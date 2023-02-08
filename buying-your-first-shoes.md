@@ -123,10 +123,31 @@ Some may even employ fancier materials like molded plastics made to follow a cur
 
 #### Outsole
 
-* what is the outsole
-* different designs (full sole, split sole)
-* thickness
-* rubber compounds
+The outsole is the rubber piece you use to step on footholds with.
+It’s what you’d usually merely call ‘the sole’ if you didn’t need to make a difference between midsoles and outsoles.
+Naturally, it being where (almost literally) rubber meets road, it is a very important part of the shoe.
+
+Climbing shoe outsoles don’t come in all sorts of tread designs – they’re all flat rubber sheeting – but they still come in different designs that excel at different things.
+A full length outsole covers the entire length of the shoe from toe to heel.
+A split outsole, on the other hand, has a separate sole sheet under the front of the foot, with the heel being its own part.
+This makes a difference in stiffness in the midfoot.
+
+The thickness of the rubber used is another factor in outsole design.
+Climbing inevitably wears the outsole away bit by bit.
+A solid 5 mm sheet of rubber will provide more stiffness and make it a bit harder to feel every nuance under your feet, and also be way more durable.
+If the rubber sheet material is a more 3 mm thick, it will enable you to feel much more through it, contribute less stiffness, and wear away much faster.
+
+Finally, not all climbing shoe soles are made of the same rubber compound.
+They are all what was at the time of its invention called ‘sticky rubber’ but different compounds offer different balances of properties.
+Generally, the harder a rubber compound is, the more it resists deforming.
+This becomes important on tiny footholds where a weighted tip of the shoe would deform a softer rubber’s edge enough to make it pop off the foothold.
+Harder rubbers are also usually more durable, but they don’t offer as much pure friction.
+
+Maximum friction is the strength of softer rubber compounds.
+It comes at the cost of durability and how well it performs on tiny edges.
+
+Finally, rubber compounds may also be optimised for durability at the cost of performance overall.
+Think rental shoes and the mileage they have to survive while also not being overly expensive.
 
 #### Closing System
 
