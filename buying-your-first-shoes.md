@@ -94,15 +94,32 @@ Both of these should be avoided, especially the latter.
 * the parts that go into assembling a shoe on its last
 * useful for more identifying parts, more precise talk, deciphering reviews
 
-#### Outer
+#### Upper
 
-* what is the outer
-* different materials
+The shoe’s body itself is called the upper.
+This is the parts of material sewn together to cover the last like a sock.
+By itself, it is fairly floppy, but it’s the part of the shoe in contact with your feet and that the different bits of rubber, elastic, and closure system are attached to.
+
+Uppers come in different materials.
+Leather is the old school choice, rugged and fairly breathable.
+When unlined, it can stretch a good bit over the course of being broken in.
+That gives you a very custom fit, but needs to be accounted for when buying the shoes.
+Areas covered by rubber or otherwise constrained will stretch much less, as will lined leather.
+They will also breathe less.
+
+The other big group of materials is synthetics.
+Most of these are microfibre-based, such as Lorica, Alcantara, and too many more or less brand-name choices to list them all.
+They generally tend to breathe less well, which makes shoes smelly much easier than leather.
+On the other hand, synthetic materials are more form-stable and don’t stretch much.
 
 #### Midsole
 
-* what is the midsole
-* shape vs material
+The midsole is a piece of plastic that is glued between the upper’s sole part and the outsole to add further resistance against flexing.
+This property of a shoe is called support or stiffness and we’ll treat it separately in the *Properties* section of this chapter.
+
+Sadly, midsoles aren’t often advertised or described directly in manufacturer’s copy and aren’t easily accessible to reviewers either (without disassembling a shoe, that is), but their shape and material can make a lot of difference in how a shoe behaves.
+They come in all sorts of shapes from minimal slivers of thin plastic to full-length boards of substantial material.
+Some may even employ fancier materials like molded plastics made to follow a curve on its own instead of just being a flat sheet.
 
 #### Outsole
 
