@@ -91,8 +91,8 @@ Both of these should be avoided, especially the latter.
 
 ### Parts
 
-* the parts that go into assembling a shoe on its last
-* useful for more identifying parts, more precise talk, deciphering reviews
+This chapter is about the parts that go into making a shoe.
+It is useful knowledge to have for being able to decipher reviews of climbing shoes and for speaking more precisely about them.
 
 #### Upper
 
