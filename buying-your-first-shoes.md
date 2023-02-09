@@ -194,8 +194,14 @@ But many more such systems are employed to make the shoe curl more into a downtu
 
 #### Heel Cup
 
-* heelwards part of the sole
-* or, optionally: molded heel cup
+The heel cup is a sort of collective term for both the fit of the heel part of a shoe – how wide or narrow and how deep or shallow it is – and its design.
+The classic way of building a heel on a climbing shoe is to let the sole rubber extend back up the heel so you can use the thicker outsole rubber for heel hooks.
+
+Some shoes don’t have heels built up from strips of sheet rubber, but instead employ a heel cup made from a single piece of rubber molded into shape.
+These molded heel cups are usually significantly more resistant to deforming.
+Whether or not that is an advantage for you is a matter of taste.
+A molded heel cup’s structural integrity can make it possible to use its edge as a very solid feature to hook behind a sharp foothold, and its thickness can enable you to pull very hard on a sharp foothold without having to fear even the slightest pain.
+On the other hand, you might prefer a traditional heel cup’s higher sensitivity or that its squishiness can make it more accomodating to differently shaped heels.
 
 #### Toehook Patch
 
