@@ -182,8 +182,15 @@ But the gist is that a narrow strap of zig-zagging webbing can reach further dow
 
 #### Rand
 
-* rand
-* tensioning system
+The rand is a thinner strip of sheet rubber that runs at least around the forefoot of the shoe (but often also around the sides and the heel) to provide a structural frame to withstand the pressure of a snug fit.
+Imagine if you put your foot into a plain, floppy upper with a sole glued underneath it – your toes would push the upper material out over the tip of the sole on even a mildly tight fit.
+The forefoot area is also prone to abrasion, with the way we step with the very tip of the toe on small footholds and put the shoe’s tip right up against the wall.
+A rand provides more abrasion resistance than the plain upper material would provide.
+
+Many shoes have more rubber strips glued around them in varying patterns.
+These are mostly to put some level of tension on the shoe to make it want to spring into a certain shape.
+The most common of these is a rubber band around the upper heel/achilles area – this compresses the heel cup in a way that when you put your foot in, it wants to push your foot forward into the toebox.
+But many more such systems are employed to make the shoe curl more into a downturned shape, pull into a shape that hugs your foot more, and so on.
 
 #### Heel Cup
 
