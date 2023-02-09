@@ -205,7 +205,11 @@ On the other hand, you might prefer a traditional heel cup’s higher sensitivit
 
 #### Toehook Patch
 
-* optionally: toehook patch
+Some shoes have a piece of soft rubber on top of the toes and forefoot, sometimes even reaching up to the midfoot, to give you more friction when employing a toehook.
+A simpler or more minimal design can just have the rand be a little wider over the big toe area, while a more aggressive design might have a big separate patch of extra sticky rubber glued on top of the shoe.
+
+One factor outside of how well a toehook patch makes a shoe perform on toehooks is that areas of the upper covered by rubber have less leeway of moving with the shape of your feet.
+That can make the toebox of a shoe with a big toehook patch feel harder against your feet than a shoe that allows its soft upper material to bulge and squish a bit around a bent toe knuckle.
 
 ### Design Factors
 
