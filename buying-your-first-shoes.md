@@ -149,9 +149,36 @@ It comes at the cost of durability and how well it performs on tiny edges.
 Finally, rubber compounds may also be optimised for durability at the cost of performance overall.
 Think rental shoes and the mileage they have to survive while also not being overly expensive.
 
-#### Closing System
+#### Closure System
 
-* different closure systems
+Closure systems are what keeps the shoe tight against your foot and make it resist coming off, you know these from your street shoes.
+In climbing shoes, they come with different advantages and disadvantages.
+
+Laces are the old school method.
+Most climbing shoe designs with laces have the lacing extend very far down the shoe, so you can get the exactly right amount of snugness at every part of the foot.
+They not only allow for a very finely tuned fit, they also allow for cinching down a great deal around narrow or low volume parts of your foot.
+Their biggest downside is that they take a long time to put on and take off.
+For bouldering, where you might want to take your shoes off between attempts, this is a much bigger impediment than it is for something like climbing a big wall.
+Another disadvantage is that the lacing reaching far down the shoe leaves less space down the toe for a big toehook patch.
+
+Velcro is the sweet spot that does everything well enough.
+Two or three straps of velcro allow for a reasonable amount of adaptability around the midfoot, leave some space on top of the forefoot for a toehook patch, and they go on and come off in seconds.
+Of course, having no way to tighten down near to the toes means that the toebox needs to fit your foot well, and your midfoot shouldn’t be so much lower in volume that you get barely any overlap of hook and loop portion of the velcro strap.
+But there is a reason velcro shoes are everywhere.
+
+Slippers have no closure system per se, just elastic insets in the upper that pull the material close to your foot, like a stretchy sock.
+They have enormous space on the forefoot, and are taken off even faster than velcro shoes.
+However, they come with a much narrower spectum of foot shapes that fit them well enough – if your feet are just a bit too low volume, the elastic won’t provide enough to make the shoes stay on your feet.
+And even on a very good fit, they aren’t as securely fixed to your foot as a laceup or velcro shoe.
+Pulling on a heel hook might just be enough to rather pull the shoe off your foot than make you pull yourself up by the heel.
+
+The slipper with a single velcro strap tries to alleviate the slipper’s worst shortcomings:
+You still get that big space for toehook patches, but the velcro strap all the way up the shoe keeps it on your foot no matter how hard you crank on it.
+The single strap might even be able to make up for a slightly too low volume upper midfoot, but the single-strap slipper still isn’t the design to accomodate a wider variety of foot shapes.
+
+Another way of closing shoes works by way of one or more webbing straps zig-zagging down the shoe and either having velcro at the top end or on a pull tab sliding along the strap.
+Every brand has their own way of implementing this sort of system, and they all have their own name for it.
+But the gist is that a narrow strap of zig-zagging webbing can reach further down the foot than a wide strap of velcro, so you get some of the benefits of a laceup shoe with some of the velcro shoe’s ease.
 
 #### Rand
 
