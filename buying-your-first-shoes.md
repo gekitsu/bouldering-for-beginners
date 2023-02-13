@@ -228,9 +228,20 @@ It can also be an advantage on very small footholds where even a little bit of s
 
 #### Asymmetry
 
-* what is asymmetry
-* part toebox shape
-* part sideways banana shape exerting extra sideways pressure on the foot at the outside of the tip towards the big toe, the outside of the heel, and the inside of the midfoot
+Asymmetry is another factor you’ll most likely encounter when reading climbing.
+Like downturn, it describes a ‘bend’ in the shoe, but this time it’s not about bending sideways instead of up and down.
+
+In part, asymmetry describes the toebox shape, seen from above.
+A less asymmetric shoe would have its frontmost point closer to the shoe’s centre line, while a more asymmetric shoe’s will be further off the centre line.
+
+Asymmetry also describes the amount of sideways banana shape a shoe has – toe and heel inward, midfoot outward.
+This shoe shape obviously can’t bend your foot to conform to it.
+They just don’t move that way.
+But when you put your feet into a sideways bent shoe and force it to conform to your feet, the shoe will push inwards against your toes and heels, from pinkie to big toe.
+This extra force of shoe against feet will push your little toes into your big toe for a more compact fit in the toebox, as well as make the heel’s outside sit more snugly against your foot.
+
+What is the tradeoff for all of this?
+Comfort.
 
 #### Stiffness
 
