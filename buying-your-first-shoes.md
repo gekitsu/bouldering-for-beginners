@@ -244,6 +244,11 @@ That can make the toebox of a shoe with a big toehook patch feel harder against 
 * AND ALSO usually only available in smaller sizes
 * fortunately, at the time of writing, the trend goes strongly towards ungendered high/low volume models instead
 
+#### Neutral, Moderate & Aggressive? What’s That About?
+
+* often a conglomerate of downturn, heel tensioning, potentially also asymmetry
+* leaves out several shoe models where these three don’t align as linearly
+
 ## How to choose Your First Shoe
 
 ### Demands Placed On a First Shoe
