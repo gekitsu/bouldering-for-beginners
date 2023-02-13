@@ -180,7 +180,7 @@ Another way of closing shoes works by way of one or more webbing straps zig-zagg
 Every brand has their own way of implementing this sort of system, and they all have their own name for it.
 But the gist is that a narrow strap of zig-zagging webbing can reach further down the foot than a wide strap of velcro, so you get some of the benefits of a laceup shoe with some of the velcro shoe’s ease.
 
-#### Rand
+#### Rand & Tensioning
 
 The rand is a thinner strip of sheet rubber that runs at least around the forefoot of the shoe (but often also around the sides and the heel) to provide a structural frame to withstand the pressure of a snug fit.
 Imagine if you put your foot into a plain, floppy upper with a sole glued underneath it – your toes would push the upper material out over the tip of the sole on even a mildly tight fit.
