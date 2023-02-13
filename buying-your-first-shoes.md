@@ -218,7 +218,13 @@ That can make the toebox of a shoe with a big toehook patch feel harder against 
 
 #### Downturn
 
-* what is downturn: downwards banana shape to improve abilty to toe down on small holds in overhangs and pull on them
+Downturn is the name for how much the shoe is in a banana shape when seen from the side.
+In other words, when the shoe’s tip of the sole and heel are resting on the ground, how far off the ground the midfoot is.
+No downturn means a flat sole.
+
+The purpose of downturn is mainly to change the angle of your toe to be more pointed downwards.
+That makes it easier to not just step on smaller footholds in overhanging walls but to pull on them with your feet.
+It can also be an advantage on very small footholds where even a little bit of sole flex past horizontal makes you slip off the foothold.
 
 #### Asymmetry
 
