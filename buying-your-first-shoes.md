@@ -245,9 +245,36 @@ Comfort.
 
 #### Stiffness
 
-* support/stiffness vs softness/sensitivity
-* stiffness of the midsole material
-* stiffness where in the foot, due to midsole shape
+While downturn and asymmetry are determined by the shape of the shoe’s last, stiffness is entirely a question of materials.
+Stiffness means how much a shoe’s sole withstands being flexed or deformed.
+In turn, it means how much the shoe will support your foot on small footholds or stave off fatigue on sustained climbing.
+Stiffness and support come at the detriment of softness and sensitivity, the ability of the shoe to conform to a hold shape, and of you to feel a hold through the sole.
+
+While stiffness is the product of all the shoe’s materials’ abilities to withstand flexing, it is mainly determined by the midsole.
+In addition, the outsole’s design and thickness will lend some structural integrity, as well as the parts of the shoe’s tensioning system responsible for pulling the sole into a shape.
+
+I think it is insufficient to think of shoes as having a single degree of stiffness.
+Midsoles come not only in a variety of material stiffnesses, they also come in a wide variety of shapes.
+The same stiffness material could be cut into a midsole the length of the shoe, or just a narrow crescent underneath the pads of your toes.
+So it’s not just about *how much* bending resistance a shoe provides, it’s also about *where* it provides that bending resistance (and where it doesn’t).
+Because this makes a big difference to how the shoe behaves, let’s talk about this in some more detail:
+
+A midsole that spans the entire sole of your foot (or close to it) will lend the most support.
+Underneath your toe tips, it will provide resistance against the shoe’s front edge flexing up and pinging off the foothold.
+Underneath the balls of your feet, it will provide resistance against your toes flexing up and making you skate off the foothold – the muscles of your feet will have to bear less of that load.
+That makes full-length midsoles useful for climbers that don’t have a lot of strength in their feet (yet), and climbers whose climbing will exhaust the strength of their feet:
+Big wall climbers who will be climbing several rope lengths in one go and trad climbers who will spend extra time standing on the wall to place protection instead of just clipping a quickdraw into a bolt.
+Crack climbers’ foot jamming techniques will also often benefit from a shoe with high torsional stability along its entire sole.
+A drawback of midsoles providing this much support is that you will have a harder time getting a big bend in the balls of your feet for when you want to place the maximum amount of rubber on a volume.
+
+Midsoles that provide stiffness mainly in the forefoot will retain the shoe’s structural integrity at the tip of your toes on small holds, but make it much easier to bend at the balls of your feet.
+That means it is easier for your feet to tire out on high mileage, but will give you much more technical versatility in exchange.
+We believe that this sort of midsole is the most versatile overall, and the best choice for most climbers unless their discipline requires full-foot support.
+For sport climbing and especially bouldering, highly sustained effort is rarely a factor, but the versatility to more easily stand on a shallow volume or smear on sheer rock will be a big benefit.
+
+Finally, the most minimal midsoles will only provide stability across the very front of your shoe, just underneath of your toe tips.
+This puts the highest demand on your feet, since you’ll now have to use strength for every aspect of keeping them stable while standing on small edges.
+On the other hand, not only will you have a very easy time smearing, you’ll be able to feel nearly every ripple under your feet, have the outsole conform to it for maximum friction, and even use your toes to grab and pull on small surface ripples.
 
 #### Toebox
 
