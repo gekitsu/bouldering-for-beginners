@@ -278,9 +278,15 @@ On the other hand, not only will you have a very easy time smearing, you’ll be
 
 #### Toebox
 
-* what is the toebox
-* made to fit which toe profile
-* meant to fit with flatter vs more crimped toes
+The toebox is the front part of the shoe that houses – unsurprisingly – your toes.
+Since we are stepping with the tips of our toes, it is a very important part of a good fit.
+
+One factor of the toe box is which toe profile it fits well.
+Different manufacturers give different amounts of guidance on this, but it’s worth keeping in mind that a very pointy shoe might not do well on feet that don’t have much length difference between the toes, and vice versa.
+A good giveaway for this is when you can find a size that fits the pinkie toe side of your feet snugly, but is too tight or too loose on the big toe, and the size that makes your big toe fit either squishes your pinkie toes or gives them too much room.
+
+Furthermore, when you look at the toebox from the side, you can determine that some are more flat while others give your toes a lot of vertical space.
+The latter indicate a shoe that wants your toes curled up against the front of the toebox, while a flatter toebox accomodates a less pressurised fit.
 
 #### Men’s & Women’s? What’s the Deal?
 
