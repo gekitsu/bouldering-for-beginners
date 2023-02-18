@@ -213,8 +213,12 @@ That can make the toebox of a shoe with a big toehook patch feel harder against 
 
 ### Design Factors
 
-* mostly properties of the last that influence the design of the shoe
-* also properties derived from choices in the parts
+This chapter is about aspects of shoe design.
+Most of these factors will be determined by the shape of the last, like downturn and asymmetry.
+All shoes built on that last will have that same basic shape.
+
+Some factors, like stiffness, are entirely determined by choice of materials.
+In these cases, it’s possible that a manufacturer builds a softer and a stiffer shoe on the same last, and if one of them fits you well, the other will probably do, too.
 
 #### Downturn
 
