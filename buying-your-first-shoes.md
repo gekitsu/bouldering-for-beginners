@@ -290,9 +290,19 @@ The latter indicate a shoe that wants your toes curled up against the front of t
 
 #### Men’s & Women’s? What’s the Deal?
 
-* often a conglomerate of factors: women’s models generally a narrower, lower volume foot, AND ALSO softer or built for less body weight
-* AND ALSO usually only available in smaller sizes
-* fortunately, at the time of writing, the trend goes strongly towards ungendered high/low volume models instead
+If you studied the product catalogues of many manufacturer’s, you’ve probably encountered ‘Men’s’ and ‘Women’s’ variants of the same shoe model.
+Usually, these variant combine several of the shoe last and shoe design choices we mentioned so far.
+Of course, every manufacturer treats this differently, but it’s a safe assumption that a Woman’s variant will be built on a somewhat narrower and lower volume last, and may be designed for lower bodyweight climbers, like a slightly softer midsole and maybe even with a stickier outsole rubber.
+For mysterious reasons, the Men’s variants usually come in a strong primary colour scheme (yellow or red dominant) while Women’s variants get to sport secondary colours (mainly teal or purple).
+
+Having two models of the same shoe for slightly different foot proportions sounds like a big benefit for climbers, right?
+If the sales department insists on labeling them by gender, why should we care, when we can just buy the model that fits our feet?
+In theory, yes.
+In reality, there is one more constraint:
+Where a given shoe’s Men’s variant is available in a reasonable array of sizes (let’s say EU 34–46.5, UK 2–11.5, USM 3–12.5, USW 4.5–14), the Women’s model can easily only be available in a reduced subset (something like EU 34–42, UK 2–8, USM 3–9, USW 4.5–10.5).
+And all this for no real reason.
+
+Fortunately, at the time of writing (early 2023), it is becoming increasingly more common for manufacturer’s to sell a high volume and a low volume (often labeled ‘HV’ and ‘LV’) across the full spectrum of sizes without any further assumptions.
 
 #### Neutral, Moderate & Aggressive? What’s That About?
 
