@@ -306,8 +306,17 @@ Fortunately, at the time of writing (early 2023), it is becoming increasingly mo
 
 #### Neutral, Moderate & Aggressive? What’s That About?
 
-* often a conglomerate of downturn, heel tensioning, potentially also asymmetry
-* leaves out several shoe models where these three don’t align as linearly
+Another categorisation of climbing shoes you can find online is ‘neutral’, ‘moderate’/‘intermediate’, and ‘aggressive’.
+These usually comprise downturn, heel tensioning, and potentially also asymmetry.
+The implicit assumption is that they increase simultaneously from a flat, low-tension, low asymmetry shoe to a highly downturned, high-tension, high asymmetry shoe.
+
+That is not an unreasonable shorthand (but keep in mind it *is* a simplification), as long as you don’t mix it up with the assumption that the progression from ‘neutral’ to ‘aggressive’ mirrors a progression from ‘beginner’ to ‘advanced’, or high performance shoe.
+
+If you don’t keep in mind that this is a shorthand, you’ll have a hard time reasoning about shoes where the three factors don’t scale with each other, say a highly downturned, highly tensioned shoe with less asymmetry.
+
+If you get it mixed up with a scale from beginner to high performance shoe, you are implying that every high performance shoe looks a certain way, when there exist shoes that defy this assumption.
+We are seeing increasing amounts of shoe models aimed at comparatively beginner climbers that already introduce degrees of downturn.
+There are also shoe models built to perform at the highest level, but on long multipitch climbs either standing on tiny granite crystals or jammed into flaring cracks, not overhanging boulder problems.
 
 ## How to choose Your First Shoe
 
