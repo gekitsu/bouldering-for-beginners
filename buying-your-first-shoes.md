@@ -356,11 +356,29 @@ According to that logic, a beginner gym climber would get more use out of a soft
 
 ### What Does Fit Really Mean?
 
-* as mentioned earlier: snug but not painful is helpful, except when it’s not (to the beginner)
-* no wiggle room – the shoe and your foot don’t move against each other
-* no dead space, especially in the toebox and heel (that means: even if they’re not crimped up against the toebox, the toes will have to touch it)
-* no hot spots, where excessive pressure concentrates
-* once acclimatised to the sensation, you can step on a foothold with your big toe and fully weight it
+As mentioned earlier in this text, the commonly quoted description for good climbing shoe fit ‘snug, but not painful’ is pretty useful, except for when it’s not.
+Because it takes some getting used to a fit that’s snug all around the foot, it can be difficult for a beginner to discern the painful sensation of not being used to this sort of fit (but in two weeks, it’s going to be fine) and the pain of a definitely too tight shoe (this is only going to get worse over time).
+
+Another way of describing the sort of fit we’re aiming for is that there is no wiggle room in the shoe.
+There should be no way for the shoe and the foot to move against each other.
+However, that is not a sufficient description because we’d also say that of a good fit for a hiking shoe.
+And yet, the hiking shoe should cradle the foot firmly while providing excess room for your toes and forefoot to swell over the course of a hike, which is very much not what we want for a climbing shoe.
+
+To be more precise, we want a fit that has no dead space between foot and shoe, or as little as possible, especially in the toebox and heel.
+That means that even for a fit that does not have the toes crimped up against the toebox front, the toes will all make contact against the shoe.
+
+While the shoes should exert a low level of pressure all around the feet, there should be no hot spots where they push extra hard.
+(This demand for a precise match between foot and shoe shape is why there are chapters describing feet and shoes earlier.)
+Of course, when your entire feet are in pain because you aren’t used to the sensation, it’s not easy to tell apart a spot that hurts more.
+It can be helpful to put the shoes on and then just sit with feet unweighted for a while, to try getting a degree of acclimatisation.
+
+Once you got a feeling for just the shoes on your feet (as much as possible, at least), you should try stepping on a climbing foothold with your big toe and weighting it.
+Most stores that sell climbing shoes provide either a short section of climbing wall or just a couple inconspicuously placed footholds for that.
+Expect this to feel more painful than just having the shoes on, but it should still be a bearable (if not really *fun*) sensation.
+
+Especially if climbing shoes are your first encounter with shoes that fit more snug than casual street shoes, it is quite remarkable how big a difference that initial getting used to makes.
+My own first pair of climbing shoes felt painful when weighted on footholds in the store (I could just about do with them unweighted after having them on for 15 minutes or so), and by the time I got used to them, I could easily keep them on for an entire session at the gym.
+When I put them on now, I notice that my big toe is laying entirely flat in them and they are just over 1 cm (almost 1/2″) shorter than my current pair of comfy all-day shoes.
 
 ### The Process of Finding Your Shoe
 
