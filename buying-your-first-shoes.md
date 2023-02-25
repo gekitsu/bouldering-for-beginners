@@ -326,9 +326,33 @@ There are also shoe models built to perform at the highest level, but on long mu
 
 ### Demands Placed On a First Shoe
 
-* a step-up from rentals, better materials, higher quality
-* learning and improving technique
-* what makes a common beginners’ model? is this unavoidable?
+What is the role your first shoe is going to fill?
+Which demands will it have to fulfill?
+These are the leading questions that are going to inform a lot of decisions that are not decided by fit.
+
+If you are going from rental shoes to your first own pair, you’ll probably want them to be a step up in quality.
+That means better materials and higher build quality.
+With rental shoes having to endure mileage and abuse at the expense of nearly everything else, this is going to be easy to fulfill.
+
+As a climber early in their climbing career, you’ll probably want to learn and improve your technique as well.
+For the shoe, that means not only enabling you to properly employ techniques and step with precision, but also surviving your climbing when your technique isn’t yet up to snuff and you’re leaving more rubber on the wall than you should.
+A thicker outsole or a rubber compound favouring durability are beneficial for that.
+
+Hence, many common beginners’ shoe models look somewhat similar:
+They have no downturn, low asymmetry, low tensioning, a toebox accomodating toes laying flat instead of being all the way crimped up, stiff full-length midsoles and thick outsoles of lower-performance rubber.
+And that’s not a bad design direction.
+It makes the shoe less demanding to fit, supportive enough to not put a lot of strain on your feet, and it can leave a lot of thick rubber streaks on the wall without wearing through the sole.
+
+However, that isn’t unavoidably the only way a shoe for a beginner has to look.
+There is a long argument whether it is worth to buy a beginners’ shoe, only to buy a more bouldering-specific moderately aggressive shoe a short time later.
+A counterpoint to that argument is that many shoes marketed at intermediate climbers don’t present a big enough step up in quality to justify how much closer to the uppermost price tier they are.
+
+Be all that as it may, here is one line of argument some shoe manufacturers have been following:
+Compared to climbing on rock, indoor climbing tends to have larger and more positive footholds.
+And in the times of competitive climbing, indoor climbing has morphed into a quite distinct discipline from being a mere training grounds for the great outdoors.
+Modern gym climbing features walking with aggressive smears on big volumes, and even the lower grades come with formerly high level techniques like toe- and heelhooks in steep overhangs.
+Meanwhile, the classic neginners’ shoe outlined above is still modeled after the demands of the outdoor climbs a beginner might face – smaller footholds on vertical walls.
+According to that logic, a beginner gym climber would get more use out of a softer shoe with a more ‘bouldery’ feature set, as long as it isn’t so aggressive that it demands a very cramped fit.
 
 ### What Does Fit Really Mean?
 
