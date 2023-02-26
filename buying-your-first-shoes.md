@@ -330,14 +330,17 @@ What is the role your first shoe is going to fill?
 Which demands will it have to fulfill?
 These are the leading questions that are going to inform a lot of decisions that are not decided by fit.
 
+<!--* a step-up from rentals, better materials, higher quality-->
 If you are going from rental shoes to your first own pair, you’ll probably want them to be a step up in quality.
 That means better materials and higher build quality.
 With rental shoes having to endure mileage and abuse at the expense of nearly everything else, this is going to be easy to fulfill.
 
+<!--* learning and improving technique-->
 As a climber early in their climbing career, you’ll probably want to learn and improve your technique as well.
 For the shoe, that means not only enabling you to properly employ techniques and step with precision, but also surviving your climbing when your technique isn’t yet up to snuff and you’re leaving more rubber on the wall than you should.
 A thicker outsole or a rubber compound favouring durability are beneficial for that.
 
+<!--* what makes a common beginners’ model? is this unavoidable?-->
 Hence, many common beginners’ shoe models look somewhat similar:
 They have no downturn, low asymmetry, low tensioning, a toebox accomodating toes laying flat instead of being all the way crimped up, stiff full-length midsoles and thick outsoles of lower-performance rubber.
 And that’s not a bad design direction.
