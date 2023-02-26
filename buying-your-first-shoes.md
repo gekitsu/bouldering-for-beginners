@@ -421,11 +421,32 @@ Just be wary of people recommending to size down, size down, size down, without 
 
 ### Dos And Don’ts
 
-* do: take. your. time.
-* don’t: favour a model because somebody else is wearing it
-* do: buy at the store where a staff member took their time helping you – don’t be that person
-* don’t: think that you ought to buy (or have no business buying) certain models of shoes because you’re a beginner – there are reasons for/against certain types of shoes, but fit is paramount.
-* don’t: think you have to get a certain level of toes-crammed-tight fit right away (or downsize the number of sizes ‘everybody knows’ you have to do in that brand) – you’re doing yourself a favour easing into this over the course of a few pairs of shoes
+<!--* do: take. your. time.-->
+**Do: Take your time.**
+This is not an easy decision and as a beginner, you’re not in the optimal position to make it.
+Time spent feeling things out is rarely wasted.
+
+<!--* don’t: favour a model because somebody else is wearing it-->
+**Don’t: Favour a model of shoe because somebody else is wearing it.**
+Whether it’s the shoe everybody at your gym is wearing, or a trusted friend swears by, or the best climber of all time used to climb something really hard, don’t be tempted to buy into a model of shoe on account of somebody else.
+When a shoe gets worn often, that obviously means something about the shoe’s quality.
+But you aren’t just looking for a very good shoe, you are looking for a shoe that works very well for you – your feet and where you’re at in your climbing journey right now.
+Those are not the same thing.
+
+<!--* do: buy at the store where a staff member took their time helping you – don’t be that person-->
+**Do: Buy at the store where the staff helped you find a shoe that fits.**
+Yes, you’ll probably be able to find a better deal online, but the people at the store gave you helpful advice you couldn’t easily have gotten otherwise.
+Please don’t be that person.
+
+<!--* don’t: think that you ought to buy (or have no business buying) certain models of shoes because you’re a beginner – there are reasons for/against certain types of shoes, but fit is paramount.-->
+**Don’t: Think that you have to buy certain models, or have no business buying others because you’re a beginner.**
+There are reasons for and against certain types of shoes, but whether it fits is still the most important question.
+
+<!--* don’t: think you have to get a certain level of toes-crammed-tight fit right away (or downsize the number of sizes ‘everybody knows’ you have to do in that brand) – you’re doing yourself a favour easing into this over the course of a few pairs of shoes-->
+**Don’t: Think that you have to downsize a certain amount right away.**
+Whether it’s about a belief that climbing shoes must hurt and ought to be as tight as possible, that toes have to be crammed all the way tight into the toebox, that you must downsize the amount of shoe sizes a certain athlete does, or the number of sizes ‘everybody knows’ you have to downsize with that brand, there are too many factors at play in that question for such one-size-fits-all (heh) solutions.
+There are questions of foot proportion, of experience, of individual tolerance, of apt fit for the type of shoe, of apt fit for the sort of climbing you want to do with it, and so on, all affecting which shoe size is the best choice.
+And as a beginner especially, you’re doing yourself a favour easing into how tight to fit your shoes over the course of a few pairs.
 
 ## Down the Road
 
