@@ -382,13 +382,42 @@ When I put them on now, I notice that my big toe is laying entirely flat in them
 
 ### The Process of Finding Your Shoe
 
-* try many models, even those you didn’t have on your radar
-* try many sizes, sit with each pair for a while to get past the initial reaction of ‘ow ow ow’ as best as possible
-* that makes brick and mortar stores better than online, even if they’re more expensive than online shopping
-* if the store has a small section of climbing wall, test it on those after acclimatising
-* the big difficulty is to discern pain of not being used to this sensation (you will get used to it) and pain from trying to fit your feet into too small shoes (you will/should not get used to this)
-	* almost every climber i know has a story of that one pair of too small shoes they bought – maybe try not to make these your first pair (anonymous quotes from discord members?)
-* knowledgeable and capable sales staff can be immensely helpful bridging your experience gap
+With all this established, how best to go about finding a shoe?
+
+<!--* try many models, even those you didn’t have on your radar-->
+The first recommendation we have is to try on as many models as you can.
+Even ones you didn’t have on your radar.
+The more different shoes you’ve had on your feet, the larger the variety of sensations to base your choice on.
+
+<!--* try many sizes, sit with each pair for a while to get past the initial reaction of ‘ow ow ow’ as best as possible-->
+The second recommendation is to try many sizes of each model to tease out what you can and can not bear on your feet.
+As mentioned above, it can be helpful to sit with each pair for a while to get past the initial painful impression as best as possible.
+
+<!--* that makes brick and mortar stores better than online, even if they’re more expensive than online shopping-->
+Both of these recommendations make well-stocked brick and mortar stores a better choice than shopping online, even if they are a little more expensive.
+Finding good stores isn’t always easy, but word of mouth from other climbers or gym staff (if the gym isn’t selling shoes themselves) can be helpful.
+
+<!--* if the store has a small section of climbing wall, test it on those after acclimatising-->
+Most stores that sell climbing shoes provide either a short section of climbing wall or just a couple inconspicuously placed footholds for trying out shoes.
+After the initial acclimatisation period to the shoe, try stepping on a foothold with your big toe and weighting it.
+Expect this to feel more painful than just having the shoes on, but it should still be a bearable (if not really *fun*) sensation.
+
+<!--* the big difficulty is to discern pain of not being used to this sensation (you will get used to it) and pain from trying to fit your feet into too small shoes (you will/should not get used to this)-->
+The big difficulty in this process is to discern the pain of not being used to the sensation of wearing a snugly fitting shoe and the pain from having your feet in shoes that are too small.
+You will get used to the former relatively quick, but you will (or should) not get used to the latter.
+Having to make a decision that will hold up after you get used to having snugly fitted climbing shoes on your feet, while not yet being used to it, is what makes your first pair of shoes tricky.
+
+<!--* almost every climber i know has a story of that one pair of too small shoes they bought – maybe try not to make these your first pair (anonymous quotes from discord members?)-->
+Many climbers have a story about that one pair of shoes where they opted for a half size too small.
+It’s definitely not an uncommon problem in one’s ongoing quest to find out what we can wear – but maybe try not to make your first pair the one where you went a step too far.
+
+(anonymous discord member quotes go here)
+
+<!--* knowledgeable and capable sales staff can be immensely helpful bridging your experience gap-->
+A further advantage to a good brick and mortar store is that you can have a knowledgeable and capable salesperson next to you.
+Good staff isn’t ubiquitous, of course, and you’re more likely to find such specialised knowledge in a dedicated climbing store than in a general outdoors store’s tiny climbing aisle.
+This is where word of mouth comes in helpful again.
+Experienced sales staff can be a very potent tool to bridge your experience gap, don’t underestimate it.
 
 ### Dos And Don’ts
 
