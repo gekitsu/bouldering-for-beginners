@@ -306,7 +306,7 @@ In reality, there is one more constraint:
 Where a given shoe’s Men’s variant is available in a reasonable array of sizes (let’s say EU 34–46.5, UK 2–11.5, USM 3–12.5, USW 4.5–14), the Women’s model can easily only be available in a reduced subset (something like EU 34–42, UK 2–8, USM 3–9, USW 4.5–10.5).
 And all this for no real reason.
 
-Fortunately, at the time of writing (early 2023), it is becoming increasingly more common for manufacturer’s to sell a high volume and a low volume (often labeled ‘HV’ and ‘LV’) across the full spectrum of sizes without any further assumptions.
+Fortunately, at the time of writing (early 2023), it is becoming increasingly more common for manufacturers to sell a high volume and a low volume (often labeled ‘HV’ and ‘LV’) across the full spectrum of sizes without any further assumptions.
 
 #### Neutral, Moderate & Aggressive? What’s That About?
 
