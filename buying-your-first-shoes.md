@@ -17,6 +17,7 @@ If you have been able to choose shoes on your shoe size alone so far, you should
 
 ### Shoe Size
 
+<!-- * only length (to complicate matters: different brands fit large or small) -->
 Shoe size is probably the factor of shoe fit you’re most familiar with.
 It measures your foot’s length from the rearmost part of the heel to the most forward point of your toes.
 Across the world, several different measuring systems for shoe size are in use, such as the Paris point system in Europe and barleycorn-based systems in the United Kingdom and the United States.
@@ -36,6 +37,7 @@ But in general, it almost always pays off to try on several sizes of a given mod
 
 ### Width
 
+<!-- * wide to narrow, forefoot and heel -->
 In addition to their length, feet can also be described by their width.
 Commonly, this refers to the maximum width a foot reaches, across the forefoot, but whether you have wide or narrow heels is also a consideration.
 
@@ -50,6 +52,7 @@ A given model might accomodate a spectrum of forefoot or heel widths, but if you
 
 ### Volume
 
+<!-- * think ‘foot height’ or ‘flatness’, sometimes mild crossover into width (as more width = more displacement) -->
 We all know shoe size from buying sneakers and foot width is as straightforward and descriptive as it gets, but volume is neither an intuitive measurement nor something one has necessarily encountered before.
 
 Volume describes, in simple terms, the *height* of your foot.
@@ -71,6 +74,7 @@ You can have pronounced arches and your feet are still low volume just as well a
 
 ### Toe Profile
 
+<!-- * several common ones, every brand deals with this differently -->
 The proportions of your toes can influence shoe fit, but this is not a cut and dry affair.
 
 Generally speaking, there is no agreed-upon list of ‘foot types’ and their names.
@@ -282,6 +286,7 @@ On the other hand, not only will you have a very easy time smearing, you’ll be
 
 #### Toebox
 
+<!-- -->
 The toebox is the front part of the shoe that houses – unsurprisingly – your toes.
 Since we are stepping with the tips of our toes, it is a very important part of a good fit.
 
@@ -294,6 +299,7 @@ The latter indicate a shoe that wants your toes curled up against the front of t
 
 #### Men’s & Women’s? What’s the Deal?
 
+<!-- * often a conglomerate of factors: women’s models generally a narrower, lower volume foot, AND ALSO softer or built for less body weight -->
 If you studied the product catalogues of many manufacturer’s, you’ve probably encountered ‘Men’s’ and ‘Women’s’ variants of the same shoe model.
 Usually, these variant combine several of the shoe last and shoe design choices we mentioned so far.
 Of course, every manufacturer treats this differently, but it’s a safe assumption that a Woman’s variant will be built on a somewhat narrower and lower volume last, and may be designed for lower bodyweight climbers, like a slightly softer midsole and maybe even with a stickier outsole rubber.
