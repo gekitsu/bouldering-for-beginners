@@ -461,10 +461,28 @@ And as a beginner especially, you’re doing yourself a favour easing into how t
 
 ### Shoe Care Basics
 
-* don’t keep the shoes in your bag, let them dry and air out
-* clean feet are an advantage
-* it’s easier to keep ahead of stink than to fix it when it happens
-* many many factors in shoes becoming smelly, so hard to have a one-size-fits-all solution
+You don’t have to be around climbers for long to encounter the subject of climbing shoe smell.
+If you are lucky, by hearsay only.
+
+<!--* don’t keep the shoes in your bag, let them dry and air out-->
+One of the simplest things to do is not to put the shoes in your bag and leave them there.
+Let them air out and dry in a well-ventilated area instead.
+Somewhat related:
+When you take a break, take your shoes off instead of letting them marinade in whatever your feet exude for no gain.
+(This also means you will have to put them on again before you start climbing, which makes you take better rest breaks.)
+
+<!--* clean feet are an advantage-->
+Putting clean feet into shoes is also an advantage.
+Washing your feet is a good idea in general, so if you are in need of an incentive, here you are.
+
+<!--* it’s easier to keep ahead of stink than to fix it when it happens-->
+All the available products like shoe disinfectants or bags of moisture-binding aromatised ingredients to place in your shoes notwithstanding, it is easier to stay ahead of stink developing than it is to play catch up and try to get rid of it.
+
+<!--* many many factors in shoes becoming smelly, so hard to have a one-size-fits-all solution-->
+Sadly, this isn’t a straightforward problem with only a few possible causes.
+It doesn’t affect every climber equally, and it can have a whole lot of factors playing into it.
+Some of them easier to tackle than others.
+So what we can do in a guide like this is mention a couple sound best practises that you probably should be doing anyways, but if you notice more severe problems with sweat buildup and shoe smell, it’s probably worth taking up with a professional.
 
 ### Resoling
 
