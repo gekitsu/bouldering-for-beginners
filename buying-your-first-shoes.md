@@ -486,9 +486,43 @@ So what we can do in a guide like this is mention a couple sound best practises 
 
 ### Resoling
 
-* what is resoling
-* why resole
-* when to send your shoes off for a resole
+<!--* what is resoling-->
+Resoling strictly means to take off the shoe’s outsole and replace it with a new one.
+It is a task climbing shoe repair shops can do for you, alongside others like replacing a torn closure strap or replacing a worn through rand.
+
+<!--* why resole-->
+Why should you bother with resoling?
+For one, the outsole is a shoe’s primary consumable part:
+The act of climbing will wear it down, and even with good technique, it will wear out before the rest of the shoe.
+Instead of throwing away an otherwise good shoe, just replacing the sole is sensible in multiple regards.
+
+It is usually significantly cheaper than having to buy a new shoe.
+That it is more environmentally friendly is quite obvious.
+It also lets you use a shoe you’ve already broken in for much longer.
+
+And that’s just considering to repair a shoe into the state it was when new.
+Resolers may have many choices of rubber compound and thickness available for you to choose from.
+If you were happy with a shoe, but wished it was a tad grippier at times, you can absolutely have it resoled with a stickier rubber compound.
+If the shoe itself worked well for you, but it had the manufacturer’s cheap house brand rubber compound on, you can choose to upgrade it with a premium grade rubber.
+
+<!--* when to send your shoes off for a resole-->
+Finding the right point in time to send your shoes in for a resole is a bit tricky.
+When you send them in too early, you are wasting perfectly good rubber.
+If you wait too long, you might have to shell out for a more expensive repair – getting the rand fixed alongside the new sole – or even have worn it down so far it is beyond repair.
+Sadly, the points where you look at a shoe and think ‘oh, that doesn’t look like it’s supposed to’ tend to be on the too late side of things.
+
+When you climb with a shoe, the points that wear down first are the frontmost edges of the outsole.
+On a new shoe, that edge is sharp.
+With use, it becomes more and more rounded and somewhat less easy to place precisely and with authority on a very narrow foothold.
+Once this rounding of the front edge has progressed so far that the seam between outsole and rand took a shallow dip, it’s time to think about resoling.
+
+If you wait with a repair after that point, you’ll expose not only the outsole at the front to abrasion, but also the much thinner rand rubber.
+Eventually, you’ll start seeing the upper material peek through between a worn through rand and a worn back outsole.
+With even more climbing, you might even wear through the upper material and make your toe peek out.
+At that point, it should be evident that not even a replaced rand will put the shoe in a very good state.
+
+That is why we mention resoling in a guide aimed at beginners.
+It is a great option to have, but unless you know of it early, you’ll not get the most out of it.
 
 ### Cycling Through Multiple Pairs
 
