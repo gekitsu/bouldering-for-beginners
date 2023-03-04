@@ -498,6 +498,9 @@ And as a beginner especially, you’re doing yourself a favour easing into how t
 
 ## Down the Road
 
+Now that you are the proud owner of your first pair of well-fitting climbing shoes, we won’t keep you from climbing much longer.
+But here are a few best practises or bits of knowledge to keep in mind that might come in helpful in the (near?) future:
+
 ### Shoe Care Basics
 
 You don’t have to be around climbers for long to encounter the subject of climbing shoe smell.
