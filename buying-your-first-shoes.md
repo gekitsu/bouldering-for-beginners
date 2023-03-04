@@ -2,7 +2,18 @@
 
 ## Introduction
 
-* buying your own climbing shoes the first thing to do when you think you’d want to take up this hobby
+<!--* buying your own climbing shoes the first thing to do when you think you’d want to take up this hobby-->
+Once you decide you’re going to stick with climbing, buying your own climbing shoes is the first thing to tackle.
+No matter which way you look at it, the investment is going to pay off compared to rentals sooner rather than later, and you’re going to be climbing on significantly better shoes.
+In a way, having your own shoes is a sign that you’re a ‘real’ climber now (whatever that means).
+
+However, choosing a good first pair of climbing shoes and sizing them correctly is not an easy task at the best of times.
+It isn’t made easier by how many problematic statements are floating around about the matter:
+You have to go at least X shoe sizes down from your street shoes (without telling whether that is supposed to be UK/US or EU sizes, and for climbing shoes of which manufacturer), you absolutely have to wear the tightest thing you can cram your feet into, everything else is not worth it, ignore the pain because you’ll get used to it, you have to buy a certain type of shoe, …
+The worst part is that within many of these statements is a tiny nugget of truth, but certainly not when taken as absolutes.
+
+This document exists as a way to collect a lot of the advice given to people asking about good first climbing shoes (or any variant of that question) in the Bouldering Bobat Discord server.
+Hopefully, it is useful for giving you a deeper understanding of what goes into a good choice of shoe and how to go about finding it.
 
 ## TL;DR: Fit Is the Most Important Thing
 
