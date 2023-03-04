@@ -139,7 +139,7 @@ It is useful knowledge to have for being able to decipher reviews of climbing sh
 
 The shoe’s body itself is called the upper.
 This is the parts of material sewn together to cover the last like a sock.
-By itself, it is fairly floppy, but it’s the part of the shoe in contact with your feet and that the different bits of rubber, elastic, and closure system are attached to.
+By itself, it is fairly floppy, but it’s the part of the shoe in contact with your feet and what the different bits of rubber, elastic, and closure system are attached to.
 
 Uppers come in different materials.
 Leather is the old school choice, rugged and fairly breathable.
@@ -160,11 +160,11 @@ This property of a shoe is called support or stiffness and we’ll treat it sepa
 
 Sadly, midsoles aren’t often advertised or described directly in manufacturer’s copy and aren’t easily accessible to reviewers either (without disassembling a shoe, that is), but their shape and material can make a lot of difference in how a shoe behaves.
 They come in all sorts of shapes from minimal slivers of thin plastic to full-length boards of substantial material.
-Some may even employ fancier materials like molded plastics made to follow a curve on its own instead of just being a flat sheet.
+Some may even employ fancier materials like plastics molded to a certain shape instead of just being a flat sheet.
 
 #### Outsole
 
-The outsole is the rubber piece you use to step on footholds with.
+The outsole is the rubber piece you step on footholds with.
 It’s what you’d usually merely call ‘the sole’ if you didn’t need to make a difference between midsoles and outsoles.
 Naturally, it being where (almost literally) rubber meets road, it is a very important part of the shoe.
 
@@ -176,7 +176,7 @@ This makes a difference in stiffness in the midfoot.
 The thickness of the rubber used is another factor in outsole design.
 Climbing inevitably wears the outsole away bit by bit.
 A solid 5 mm sheet of rubber will provide more stiffness and make it a bit harder to feel every nuance under your feet, and also be way more durable.
-If the rubber sheet material is a more 3 mm thick, it will enable you to feel much more through it, contribute less stiffness, and wear away much faster.
+If the rubber sheet material is a meager 3 mm thick, it will enable you to feel much more through it, contribute less stiffness, and wear away much faster.
 
 Finally, not all climbing shoe soles are made of the same rubber compound.
 They are all what was at the time of its invention called ‘sticky rubber’ but different compounds offer different balances of properties.
@@ -192,13 +192,14 @@ Think rental shoes and the mileage they have to survive while also not being ove
 
 #### Closure System
 
-Closure systems are what keeps the shoe tight against your foot and make it resist coming off, you know these from your street shoes.
+Closure systems are what keeps the shoe tight against your foot and make it resist coming off.
+You know these from your street shoes.
 In climbing shoes, they come with different advantages and disadvantages.
 
 Laces are the old school method.
 Most climbing shoe designs with laces have the lacing extend very far down the shoe, so you can get the exactly right amount of snugness at every part of the foot.
 They not only allow for a very finely tuned fit, they also allow for cinching down a great deal around narrow or low volume parts of your foot.
-Their biggest downside is that they take a long time to put on and take off.
+Their biggest downside is that they require a long time to put on and take off.
 For bouldering, where you might want to take your shoes off between attempts, this is a much bigger impediment than it is for something like climbing a big wall.
 Another disadvantage is that the lacing reaching far down the shoe leaves less space down the toe for a big toehook patch.
 
@@ -208,10 +209,10 @@ Of course, having no way to tighten down near to the toes means that the toebox 
 But there is a reason velcro shoes are everywhere.
 
 Slippers have no closure system per se, just elastic insets in the upper that pull the material close to your foot, like a stretchy sock.
-They have enormous space on the forefoot, and are taken off even faster than velcro shoes.
+They have enormous space on top of the forefoot, and are taken off even faster than velcro shoes.
 However, they come with a much narrower spectum of foot shapes that fit them well enough – if your feet are just a bit too low volume, the elastic won’t provide enough to make the shoes stay on your feet.
 And even on a very good fit, they aren’t as securely fixed to your foot as a laceup or velcro shoe.
-Pulling on a heel hook might just be enough to rather pull the shoe off your foot than make you pull yourself up by the heel.
+Pulling on a heel hook might just be enough to pull the shoe off your foot instead of making you pull yourself up by the heel.
 
 The slipper with a single velcro strap tries to alleviate the slipper’s worst shortcomings:
 You still get that big space for toehook patches, but the velcro strap all the way up the shoe keeps it on your foot no matter how hard you crank on it.
@@ -241,12 +242,12 @@ The classic way of building a heel on a climbing shoe is to let the sole rubber 
 Some shoes don’t have heels built up from strips of sheet rubber, but instead employ a heel cup made from a single piece of rubber molded into shape.
 These molded heel cups are usually significantly more resistant to deforming.
 Whether or not that is an advantage for you is a matter of taste.
-A molded heel cup’s structural integrity can make it possible to use its edge as a very solid feature to hook behind a sharp foothold, and its thickness can enable you to pull very hard on a sharp foothold without having to fear even the slightest pain.
+A molded heel cup’s structural integrity can make it possible to use its edge as a very solid feature to hook behind a sharp foothold, and its thickness can enable you to pull very hard on a sharp foothold without having to fear even the mildest pain.
 On the other hand, you might prefer a traditional heel cup’s higher sensitivity or that its squishiness can make it more accomodating to differently shaped heels.
 
 #### Toehook Patch
 
-Some shoes have a piece of soft rubber on top of the toes and forefoot, sometimes even reaching up to the midfoot, to give you more friction when employing a toehook.
+Some shoes have a piece of soft rubber on top of the toes and forefoot, maybe even reaching up to the midfoot, to give you more friction when employing a toehook.
 A simpler or more minimal design can just have the rand be a little wider over the big toe area, while a more aggressive design might have a big separate patch of extra sticky rubber glued on top of the shoe.
 
 One factor outside of how well a toehook patch makes a shoe perform on toehooks is that areas of the upper covered by rubber have less leeway of moving with the shape of your feet.
@@ -273,16 +274,16 @@ It can also be an advantage on very small footholds where even a little bit of s
 
 #### Asymmetry
 
-Asymmetry is another factor you’ll most likely encounter when reading climbing.
-Like downturn, it describes a ‘bend’ in the shoe, but this time it’s not about bending sideways instead of up and down.
+Asymmetry is another factor you’ll most likely encounter when reading climbing shoe reviews.
+Like downturn, it describes a ‘bend’ in the shoe, but this time it’s about bending sideways instead of up and down.
 
 In part, asymmetry describes the toebox shape, seen from above.
 A less asymmetric shoe would have its frontmost point closer to the shoe’s centre line, while a more asymmetric shoe’s will be further off the centre line.
 
-Asymmetry also describes the amount of sideways banana shape a shoe has – toe and heel inward, midfoot outward.
+Asymmetry also describes the amount of sideways banana shape a shoe has – toe and heel pointing inward, midfoot bowed outward.
 This shoe shape obviously can’t bend your foot to conform to it.
-They just don’t move that way.
-But when you put your feet into a sideways bent shoe and force it to conform to your feet, the shoe will push inwards against your toes and heels, from pinkie to big toe.
+Feet just don’t move that way.
+But when you put your foot into a sideways bent shoe and force it to conform to your feet, the shoe will push inwards against your toes and heels, from pinkie to big toe.
 This extra force of shoe against feet will push your little toes into your big toe for a more compact fit in the toebox, as well as make the heel’s outside sit more snugly against your foot.
 
 What is the tradeoff for all of this?
@@ -293,7 +294,7 @@ Comfort.
 While downturn and asymmetry are determined by the shape of the shoe’s last, stiffness is entirely a question of materials.
 Stiffness means how much a shoe’s sole withstands being flexed or deformed.
 In turn, it means how much the shoe will support your foot on small footholds or stave off fatigue on sustained climbing.
-Stiffness and support come at the detriment of softness and sensitivity, the ability of the shoe to conform to a hold shape, and of you to feel a hold through the sole.
+Stiffness and support come at the detriment of softness and sensitivity – the ability of the shoe to conform to a hold shape, and of you to feel a hold through the sole.
 
 While stiffness is the product of all the shoe’s materials’ abilities to withstand flexing, it is mainly determined by the midsole.
 In addition, the outsole’s design and thickness will lend some structural integrity, as well as the parts of the shoe’s tensioning system responsible for pulling the sole into a shape.
@@ -305,15 +306,16 @@ So it’s not just about *how much* bending resistance a shoe provides, it’s a
 Because this makes a big difference to how the shoe behaves, let’s talk about this in some more detail:
 
 A midsole that spans the entire sole of your foot (or close to it) will lend the most support.
-Underneath your toe tips, it will provide resistance against the shoe’s front edge flexing up and pinging off the foothold.
+Underneath your toe tips, it will provide resistance against the shoe’s front edge flexing up and pinging off a foothold.
 Underneath the balls of your feet, it will provide resistance against your toes flexing up and making you skate off the foothold – the muscles of your feet will have to bear less of that load.
+Finally, everything extending back from there provides a larger platform for you to stand on.
 That makes full-length midsoles useful for climbers that don’t have a lot of strength in their feet (yet), and climbers whose climbing will exhaust the strength of their feet:
-Big wall climbers who will be climbing several rope lengths in one go and trad climbers who will spend extra time standing on the wall to place protection instead of just clipping a quickdraw into a bolt.
+Big wall climbers who will be climbing several rope lengths in one push and trad climbers who will spend extra time standing on the wall to place protection instead of just clipping a quickdraw into a bolt.
 Crack climbers’ foot jamming techniques will also often benefit from a shoe with high torsional stability along its entire sole.
 A drawback of midsoles providing this much support is that you will have a harder time getting a big bend in the balls of your feet for when you want to place the maximum amount of rubber on a volume.
 
 Midsoles that provide stiffness mainly in the forefoot will retain the shoe’s structural integrity at the tip of your toes on small holds, but make it much easier to bend at the balls of your feet.
-That means it is easier for your feet to tire out on high mileage, but will give you much more technical versatility in exchange.
+That means it is easier for your feet to tire out on sustained climbing, but will give you much more technical versatility in exchange.
 We believe that this sort of midsole is the most versatile overall, and the best choice for most climbers unless their discipline requires full-foot support.
 For sport climbing and especially bouldering, highly sustained effort is rarely a factor, but the versatility to more easily stand on a shallow volume or smear on sheer rock will be a big benefit.
 
@@ -332,15 +334,15 @@ Different manufacturers give different amounts of guidance on this, but it’s w
 A good giveaway for this is when you can find a size that fits the pinkie toe side of your feet snugly, but is too tight or too loose on the big toe, and the size that makes your big toe fit either squishes your pinkie toes or gives them too much room.
 
 Furthermore, when you look at the toebox from the side, you can determine that some are more flat while others give your toes a lot of vertical space.
-The latter indicate a shoe that wants your toes curled up against the front of the toebox, while a flatter toebox accomodates a less pressurised fit.
+The latter indicate a shoe that wants your toes curled up against the front of the toebox, while a flatter toebox accomodates a less pressurised, more natural fit.
 
 #### Men’s & Women’s? What’s the Deal?
 
 <!-- * often a conglomerate of factors: women’s models generally a narrower, lower volume foot, AND ALSO softer or built for less body weight -->
-If you studied the product catalogues of many manufacturer’s, you’ve probably encountered ‘Men’s’ and ‘Women’s’ variants of the same shoe model.
-Usually, these variant combine several of the shoe last and shoe design choices we mentioned so far.
-Of course, every manufacturer treats this differently, but it’s a safe assumption that a Woman’s variant will be built on a somewhat narrower and lower volume last, and may be designed for lower bodyweight climbers, like a slightly softer midsole and maybe even with a stickier outsole rubber.
-For mysterious reasons, the Men’s variants usually come in a strong primary colour scheme (yellow or red dominant) while Women’s variants get to sport secondary colours (mainly teal or purple).
+If you studied many manufacturers’ product catalogues, you’ve probably encountered ‘Men’s’ and ‘Women’s’ variants of the same shoe model.
+Usually, these variants combine several of the shoe last and shoe design choices mentioned so far.
+Of course, every manufacturer treats this differently, but it’s a safe assumption that a Women’s variant will be built on a somewhat narrower and lower volume last, and may be designed for lower bodyweight climbers, with a slightly softer midsole and maybe even with a stickier outsole rubber.
+For mysterious reasons, the Men’s variants usually come in a strong primary colour scheme (yellow or red dominant) while Women’s variants often sport secondary colours (mainly teal or purple).
 
 Having two models of the same shoe for slightly different foot proportions sounds like a big benefit for climbers, right?
 If the sales department insists on labeling them by gender, why should we care, when we can just buy the model that fits our feet?
@@ -349,15 +351,15 @@ In reality, there is one more constraint:
 Where a given shoe’s Men’s variant is available in a reasonable array of sizes (let’s say EU 34–46.5, UK 2–11.5, USM 3–12.5, USW 4.5–14), the Women’s model can easily only be available in a reduced subset (something like EU 34–42, UK 2–8, USM 3–9, USW 4.5–10.5).
 And all this for no real reason.
 
-Fortunately, at the time of writing (early 2023), it is becoming increasingly more common for manufacturers to sell a high volume and a low volume (often labeled ‘HV’ and ‘LV’) across the full spectrum of sizes without any further assumptions.
+Fortunately, at the time of writing (early 2023), it is becoming increasingly more common for manufacturers to sell a high volume and a low volume (often labeled ‘HV’ and ‘LV’) variant of a given model across the full spectrum of sizes without any further assumptions.
 
 #### Neutral, Moderate & Aggressive? What’s That About?
 
-Another categorisation of climbing shoes you can find online is ‘neutral’, ‘moderate’/‘intermediate’, and ‘aggressive’.
+Another categorisation of climbing shoes you can find online is ‘neutral,’ ‘moderate’/‘intermediate,’ and ‘aggressive.’
 These usually comprise downturn, heel tensioning, and potentially also asymmetry.
-The implicit assumption is that they increase simultaneously from a flat, low-tension, low asymmetry shoe to a highly downturned, high-tension, high asymmetry shoe.
+The implicit assumption is that these factors increase simultaneously from a flat, low-tension, low asymmetry shoe to a highly downturned, high-tension, high asymmetry shoe.
 
-That is not an unreasonable shorthand (but keep in mind it *is* a simplification), as long as you don’t mix it up with the assumption that the progression from ‘neutral’ to ‘aggressive’ mirrors a progression from ‘beginner’ to ‘advanced’, or high performance shoe.
+That is not an unreasonable shorthand (but keep in mind it *is* a simplification), as long as you don’t mix it up with the assumption that the progression from ‘neutral’ to ‘aggressive’ mirrors a progression from ‘beginner’ to ‘advanced,’ or low to high performance shoe.
 
 If you don’t keep in mind that this is a shorthand, you’ll have a hard time reasoning about shoes where the three factors don’t scale with each other, say a highly downturned, highly tensioned shoe with less asymmetry.
 
@@ -371,7 +373,7 @@ There are also shoe models built to perform at the highest level, but on long mu
 
 What is the role your first shoe is going to fill?
 Which demands will it have to fulfill?
-These are the leading questions that are going to inform a lot of decisions that are not decided by fit.
+These are the leading questions that are going to inform a lot of the decisions that are not decided by fit.
 
 <!--* a step-up from rentals, better materials, higher quality-->
 If you are going from rental shoes to your first own pair, you’ll probably want them to be a step up in quality.
@@ -387,7 +389,7 @@ A thicker outsole or a rubber compound favouring durability are beneficial for t
 Hence, many common beginners’ shoe models look somewhat similar:
 They have no downturn, low asymmetry, low tensioning, a toebox accomodating toes laying flat instead of being all the way crimped up, stiff full-length midsoles and thick outsoles of lower-performance rubber.
 And that’s not a bad design direction.
-It makes the shoe less demanding to fit, supportive enough to not put a lot of strain on your feet, and it can leave a lot of thick rubber streaks on the wall without wearing through the sole.
+It makes the shoe less demanding to fit, supportive enough to not put a lot of strain on your feet, and it can leave a lot of dark rubber streaks on the wall without wearing through the sole.
 
 However, that isn’t unavoidably the only way a shoe for a beginner has to look.
 There is a long argument whether it is worth to buy a beginners’ shoe, only to buy a more bouldering-specific moderately aggressive shoe a short time later.
@@ -395,16 +397,16 @@ A counterpoint to that argument is that many shoes marketed at intermediate clim
 
 Be all that as it may, here is one line of argument some shoe manufacturers have been following:
 Compared to climbing on rock, indoor climbing tends to have larger and more positive footholds.
-And in the times of competitive climbing, indoor climbing has morphed into a quite distinct discipline from being a mere training grounds for the great outdoors.
+And in the times of competition climbing and the Olympics, indoor climbing has morphed into a quite distinct discipline from being a mere training grounds for the great outdoors.
 Modern gym climbing features walking with aggressive smears on big volumes, and even the lower grades come with formerly high level techniques like toe- and heelhooks in steep overhangs.
-Meanwhile, the classic neginners’ shoe outlined above is still modeled after the demands of the outdoor climbs a beginner might face – smaller footholds on vertical walls.
+Meanwhile, the classic beginners’ shoe outlined above is still modeled after the demands of the outdoor climbs a beginner might face – smaller footholds on vertical walls.
 According to that logic, a beginner gym climber would get more use out of a softer shoe with a more ‘bouldery’ feature set, as long as it isn’t so aggressive that it demands a very cramped fit.
 
 ### What Does Fit Really Mean?
 
 <!--* as mentioned earlier: snug but not painful is helpful, except when it’s not (to the beginner)-->
-As mentioned earlier in this text, the commonly quoted description for good climbing shoe fit ‘snug, but not painful’ is pretty useful, except for when it’s not.
-Because it takes some getting used to a fit that’s snug all around the foot, *every* shoe that’s this snug is going to be painful at first.
+As mentioned earlier in this text, the commonly quoted description for good climbing shoe fit ‘snug, but not painful’ is pretty useful, except for when it isn’t.
+Because it takes some getting used to a fit that’s snug all around the foot, *every* shoe fitting this snug is going to be painful at first.
 
 <!--* no wiggle room – the shoe and your foot don’t move against each other-->
 Another way of describing the sort of fit we’re aiming for is that there is no wiggle room in the shoe.
@@ -417,9 +419,9 @@ To be more precise, we want a fit that has no dead space between foot and shoe, 
 That means that even for a fit that does not have the toes crimped up against the toebox front, the toes will all make contact against the shoe.
 
 <!--* no hot spots, where excessive pressure concentrates-->
-While the shoes should exert a low level of pressure all around the feet, there should be no hot spots where they push extra hard.
-(This demand for a precise match between foot and shoe shape is why there are chapters describing feet and shoes earlier.)
-Of course, when your entire feet are in pain because you aren’t used to the sensation, it’s not easy to tell apart a spot that hurts more.
+While the shoes should exert a low level of pressure all around the feet, there should be no hot spots where they push much harder.
+(This demand for a precise match between foot and shoe shape is why there are chapters describing feet and shoes above.)
+Of course, when your entire feet are in pain because you aren’t used to the sensation, it isn’t easy to tell apart a spot that hurts more.
 
 <!--* once acclimatised to the sensation, you can step on a foothold with your big toe and fully weight it-->
 And finally, a good fit can’t be determined just by how the shoe is on your unweighted foot.
@@ -448,13 +450,13 @@ After the initial acclimatisation period to the shoe, try stepping on a foothold
 Expect this to feel more painful than just having the shoes on, but it should still be a bearable (if not really *fun*) sensation.
 
 <!--* the big difficulty is to discern pain of not being used to this sensation (you will get used to it) and pain from trying to fit your feet into too small shoes (you will/should not get used to this)-->
-The big difficulty in this process is to discern the pain of not being used to the sensation of wearing a snugly fitting shoe and the pain from having your feet in shoes that are too small.
+The big difficulty in this process is to tell apart the pain of not being used to the sensation of wearing a snugly fitting shoe and the pain from having your feet in shoes that are too small.
 You will get used to the former relatively quick, but you will (or should) not get used to the latter.
 Having to make a decision that will hold up after you get used to having snugly fitted climbing shoes on your feet, while not yet being used to it, is what makes your first pair of shoes tricky.
 
 <!--* almost every climber i know has a story of that one pair of too small shoes they bought – maybe try not to make these your first pair (anonymous quotes from discord members?)-->
 Many climbers have a story about that one pair of shoes where they opted for a half size too small.
-It’s definitely not an uncommon problem in one’s ongoing quest to find out what we can wear – but maybe try not to make your first pair the one where you went a step too far.
+It’s definitely not an uncommon problem in the ongoing quest to find out what we can wear – but maybe try not to make your first pair the one where you went a step too far.
 
 (anonymous discord member quotes go here)
 
@@ -463,7 +465,7 @@ A further advantage to a good brick and mortar store is that you can have a know
 Good staff isn’t ubiquitous, of course, and you’re more likely to find specialised knowledge in a dedicated climbing store than in a general outdoors store’s tiny climbing aisle.
 This is where word of mouth comes in helpful again.
 Sales staff with experience helping new climbers find shoes can be a very potent tool to bridge your experience gap, don’t underestimate it.
-Just be wary of people recommending to size down, size down, size down, without any further differentiation.
+Just be wary of people recommending to size down, size down, size down, without any further differentiation, or people who don’t take their time with you.
 
 ### Dos And Don’ts
 
@@ -502,7 +504,7 @@ You don’t have to be around climbers for long to encounter the subject of clim
 If you are lucky, by hearsay only.
 
 <!--* don’t keep the shoes in your bag, let them dry and air out-->
-One of the simplest things to do is not to put the shoes in your bag and leave them there.
+One of the simplest things to do is not to put the shoes in your gym bag and leave them there.
 Let them air out and dry in a well-ventilated area instead.
 Somewhat related:
 When you take a break, take your shoes off instead of letting them marinade in whatever your feet exude for no gain.
@@ -533,14 +535,15 @@ For one, the outsole is a shoe’s primary consumable part:
 The act of climbing will wear it down, and even with good technique, it will wear out before the rest of the shoe.
 Instead of throwing away an otherwise good shoe, just replacing the sole is sensible in multiple regards.
 
-It is usually significantly cheaper than having to buy a new shoe.
+It is usually much cheaper than having to buy a new shoe.
 That it is more environmentally friendly is quite obvious.
-It also lets you use a shoe you’ve already broken in for much longer.
+It also lets you use a shoe you’ve already broken in for much longer instead of having to break in a new shoe.
 
 And that’s just considering to repair a shoe into the state it was when new.
 Resolers may have many choices of rubber compound and thickness available for you to choose from.
 If you were happy with a shoe, but wished it was a tad grippier at times, you can absolutely have it resoled with a stickier rubber compound.
 If the shoe itself worked well for you, but it had the manufacturer’s cheap house brand rubber compound on, you can choose to upgrade it with a premium grade rubber.
+The possibilities are (almost) endless.
 
 <!--* when to send your shoes off for a resole-->
 Finding the right point in time to send your shoes in for a resole is a bit tricky.
@@ -555,7 +558,7 @@ Once this rounding of the front edge has progressed so far that the seam between
 
 If you wait with a repair after that point, you’ll expose not only the outsole at the front to abrasion, but also the much thinner rand rubber.
 Eventually, you’ll start seeing the upper material peek through between a worn through rand and a worn back outsole.
-With even more climbing, you might even wear through the upper material and make your toe peek out.
+With *even more* climbing, you might even wear through the upper material and make your toe peek out.
 At that point, it should be evident that not even a replaced rand will put the shoe in a very good state.
 
 That is why we mention resoling in a guide aimed at beginners.
@@ -563,10 +566,10 @@ It is a great option to have, but unless you know of it early, you’ll not get 
 
 ### Cycling Through Multiple Pairs
 
-The obvious way to go about your next pair of shoes is to climb on your current one until it needs to be retired and then to replace it with a new, better pair.
-As you used your current shoes to climb everything, so you’re going to do with the new one.
-While this is a perfectly valid way to go about things, there is an alternative worth considering:
-Instead of continually maintaining one pair of shoes, have multiple pairs in use and cycle through them.
+The obvious way to go about your next pair of shoes is to climb on your current one until it won’t do any longer and then to replace it with a new, better pair.
+Just as you used your current shoes to climb everything, you’re going to do with the new one.
+While this is a perfectly valid way to go about things, there is an alternative worth thinking about:
+Instead of continually maintaining one pair of shoes, you can have multiple pairs in use and cycle through them.
 
 <!--* what’s the use? gets more life out of your shoes-->
 What’s the use of that?
@@ -576,14 +579,14 @@ Not only do you get choice of most apt shoe for the task at hand, you’ll also 
 <!--* a possible consideration for your second shoe, given certain circumstances-->
 This strategy mandates a slightly different approach than the way of the single shoe.
 You’ll probably want to buy that second pair much earlier, when there is still life in your first one.
-And you’ll do well by not looking for a good replacement for your first shoes, but rather for a good complement.
+And you’ll do well by not looking for a good *replacement* for your first shoes, but rather for a good *complement*.
 Of course, if you are convinced that climbing is going to stay a once-in-a-while hobby, maintaining a quiver of shoes is going to be overkill.
 
 <!--* the used/sale approach -->
 A big and obvious downside of keeping two or more pairs of shoes around is the bigger upfront investment.
 You can offset it a bit by keeping an eye on sales (or used shoe offers if that’s something you can get into).
 By not buying shoes at full price, it is easier to justify spending money on a new pair, and it can be a great way to check out shoes you were not sure about or even pairs you didn’t consider.
-The sale strategy might be a way to make this maximalist strategy work for more reasonable budget constraints.
+The sale strategy might be a way to make this maximalist approach work for more reasonable budget constraints.
 
 Maybe it’s not worth building out a varied collection of shoes straight away as a beginner, but it is worth knowing that it is an option.
 
