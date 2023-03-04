@@ -120,8 +120,15 @@ Both of these should be avoided, especially the latter.
 
 ## Anatomy of a Climbing Shoe
 
-* shoes are built on a last, a sort of foot dummy akin to a sewing body form/mannequin
-* the shape of this last influences the fit and design of the shoe, as well as the choices of parts
+In addition to knowing about your feet, knowing about shoes is another useful aspect in our quest for good climbing shoe fit.
+
+<!--* shoes are built on a last, a sort of foot dummy akin to a sewing body form/mannequin-->
+Climbing shoes are built on a sort of foot-shaped dummy called a *last*.
+You can think of this last as something like a body form or mannequin used in sewing.
+
+<!--* the shape of this last influences the fit and design of the shoe, as well as the choices of parts-->
+That means the last’s shape dictates the shape of the shoe and all the aspects of fit and design that entails.
+The choice of materials used in building a shoe on the last is the other factor in determining what sort of shoe it is going to be.
 
 ### Parts
 
