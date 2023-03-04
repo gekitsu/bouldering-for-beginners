@@ -6,9 +6,28 @@
 
 ## TL;DR: Fit Is the Most Important Thing
 
-* fit is paramount
-* fit is different for everybody, and the ‘not painful’ part of ‘snug but not painful’ will change over time
-* fit is difficult to judge when you are new to this: competent staff can help
+This is a long document, by choice, because it is a subject with a lot of nuance.
+No judgement if you don’t have the time to read through all of it right now, so here is the most important parts, summed up:
+
+<!--* fit is paramount-->
+Fit is the most important factor in buying a climbing shoe.
+Neither a shoe’s features nor its pedigree aren’t worth much if the shoe doesn’t fit your feet well.
+
+<!--* fit is different for everybody, and the ‘not painful’ part of ‘snug but not painful’ will change over time-->
+Fit is different for everybody and depends on a lot of factors.
+Some of them are about the shape and proportions of your feet, others are about how used to are to wearing climbing shoes at this point in your climbing career.
+Good fit means:
+
+* There is no way for your feet to move inside of the shoe
+* There is as little empty space as possible (especially in the toebox area of the shoe)
+* Your toes are touching the front of the shoe
+* You can step on a foothold with the toe of the shoe and weight it
+* There are no spots on your feet where the shoe concentrates pressure
+
+A good fit is often called ‘snug, but not painful,’ but the ‘not painful’ part will change over time and is hard to judge correctly when *every* tightly fitted shoe will cause a painful sensation.
+
+<!--* fit is difficult to judge when you are new to this: competent staff can help-->
+With how difficult it is to judge good fit correctly when you are new to this, *competent* staff in a place that sells climbing shoes can help bridge this gap in experience.
 
 ## Feet and How They Relate to Climbing Shoes
 
