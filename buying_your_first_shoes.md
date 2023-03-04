@@ -4,16 +4,16 @@
 
 <!--* buying your own climbing shoes the first thing to do when you think you’d want to take up this hobby-->
 Once you decide you’re going to stick with climbing, buying your own climbing shoes is the first thing to tackle.
-No matter which way you look at it, the investment is going to pay off compared to rentals sooner rather than later, and you’re going to be climbing on significantly better shoes.
+No matter which way you look at it, the investment is going to pay off compared to rentals sooner rather than later, and you’ll be climbing on significantly better shoes.
 In a way, having your own shoes is a sign that you’re a ‘real’ climber now (whatever that means).
 
 However, choosing a good first pair of climbing shoes and sizing them correctly is not an easy task at the best of times.
 It isn’t made easier by how many problematic statements are floating around about the matter:
-You have to go at least X shoe sizes down from your street shoes (without telling whether that is supposed to be UK/US or EU sizes, and for climbing shoes of which manufacturer), you absolutely have to wear the tightest thing you can cram your feet into, everything else is not worth it, ignore the pain because you’ll get used to it, you have to buy a certain type of shoe, …
+‘You have to go at least X shoe sizes down from your street shoes’ (without telling whether that is supposed to be UK/US or EU sizes, and for climbing shoes of which manufacturer), ‘you absolutely have to wear the tightest thing you can cram your feet into, everything else is not worth it,’ ‘ignore the pain because you’ll get used to it,’ ‘you have to buy a certain type of shoe,’ …
 The worst part is that within many of these statements is a tiny nugget of truth, but certainly not when taken as absolutes.
 
 This document exists as a way to collect a lot of the advice given to people asking about good first climbing shoes (or any variant of that question) in the Bouldering Bobat Discord server.
-Hopefully, it is useful for giving you a deeper understanding of what goes into a good choice of shoe and how to go about finding it.
+Hopefully, it is useful for giving you a deeper understanding of what goes into a good choice of shoe and how to go about making it.
 
 ## TL;DR: Fit Is the Most Important Thing
 
@@ -21,16 +21,16 @@ This is a long document, by choice, because it is a subject with a lot of nuance
 No judgement if you don’t have the time to read through all of it right now, so here is the most important parts, summed up:
 
 <!--* fit is paramount-->
-Fit is the most important factor in buying a climbing shoe.
-Neither a shoe’s features nor its pedigree aren’t worth much if the shoe doesn’t fit your feet well.
+Fit is the most important factor in choosing a climbing shoe.
+Neither a shoe’s features nor its reputation are worth much if the shoe doesn’t fit your feet well.
 
 <!--* fit is different for everybody, and the ‘not painful’ part of ‘snug but not painful’ will change over time-->
 Fit is different for everybody and depends on a lot of factors.
 Some of them are about the shape and proportions of your feet, others are about how used to are to wearing climbing shoes at this point in your climbing career.
 Good fit means:
 
-* There is no way for your feet to move inside of the shoe
-* There is as little empty space as possible (especially in the toebox area of the shoe)
+* Your feet can not move inside the shoe in any way
+* There is as little empty space between your foot and the shoe as possible (especially in the toebox area of the shoe)
 * Your toes are touching the front of the shoe
 * You can step on a foothold with the toe of the shoe and weight it
 * There are no spots on your feet where the shoe concentrates pressure
@@ -38,12 +38,12 @@ Good fit means:
 A good fit is often called ‘snug, but not painful,’ but the ‘not painful’ part will change over time and is hard to judge correctly when *every* tightly fitted shoe will cause a painful sensation.
 
 <!--* fit is difficult to judge when you are new to this: competent staff can help-->
-With how difficult it is to judge good fit correctly when you are new to this, *competent* staff in a place that sells climbing shoes can help bridge this gap in experience.
+With how tricky it is to judge good fit correctly when you are new to this, *competent* staff in a place that sells climbing shoes can help bridge this gap in experience.
 
 ## Feet and How They Relate to Climbing Shoes
 
 Since a good fit is about matching shoes to feet, knowing about the shape of your feet is an important factor.
-If you have been able to choose shoes on your shoe size alone so far, you should definitely consider thinking of your feet in terms of their width, volume, and overall shape, instead of just their length.
+If you have been able to choose shoes on your shoe size alone so far, you should definitely consider thinking of your feet in terms of their width, volume, and overall shape as well, instead of just their length.
 
 ### Shoe Size
 
@@ -55,7 +55,7 @@ Across the world, several different measuring systems for shoe size are in use, 
 Shoe size is a very obvious and necessary factor in fitting shoes, but for climbing shoes, merely finding the correct shoe length is not sufficient.
 If, for example, a shoe is too wide or narrow, no amount of finding the right size will make it fit well.
 
-Furthermore, Shoe size is not a measure you determine once and you’re good.
+Furthermore, shoe size is not a measure you determine once and you’re good.
 In non-climbing shoes, manufacturers can use shoe size to describe the average foot length for which a shoe is deemed suitable, the length of the shoe’s inside cavity, or the length of the last the shoe was built on.
 Depending on which sizing system a manufacturer is building shoes in ‘natively,’ size conversions to other systems may also be off by small degrees.
 
