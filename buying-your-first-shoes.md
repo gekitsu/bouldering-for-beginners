@@ -526,6 +526,27 @@ It is a great option to have, but unless you know of it early, you’ll not get 
 
 ### Cycling Through Multiple Pairs
 
-* what’s the use? gets more life out of your shoes
-* a possible consideration for your second shoe, given certain circumstances
+The obvious way to go about your next pair of shoes is to climb on your current one until it needs to be retired and then to replace it with a new, better pair.
+As you used your current shoes to climb everything, so you’re going to do with the new one.
+While this is a perfectly valid way to go about things, there is an alternative worth considering:
+Instead of continually maintaining one pair of shoes, have multiple pairs in use and cycle through them.
+
+<!--* what’s the use? gets more life out of your shoes-->
+What’s the use of that?
+Instead of having one pair for every climb, you’ll have shoes with different strengths or shoes with different degrees of performance fit, and can choose pairs according to what you intend to climb.
+Not only do you get choice of most apt shoe for the task at hand, you’ll also get longer life time for each pair by spreading out use between multiple pairs.
+
+<!--* a possible consideration for your second shoe, given certain circumstances-->
+This strategy mandates a slightly different approach than the way of the single shoe.
+You’ll probably want to buy that second pair much earlier, when there is still life in your first one.
+And you’ll do well by not looking for a good replacement for your first shoes, but rather for a good complement.
+Of course, if you are convinced that climbing is going to stay a once-in-a-while hobby, maintaining a quiver of shoes is going to be overkill.
+
+<!--* the used/sale approach -->
+A big and obvious downside of keeping two or more pairs of shoes around is the bigger upfront investment.
+You can offset it a bit by keeping an eye on sales (or used shoe offers if that’s something you can get into).
+By not buying shoes at full price, it is easier to justify spending money on a new pair, and it can be a great way to check out shoes you were not sure about or even pairs you didn’t consider.
+The sale strategy might be a way to make this maximalist strategy work for more reasonable budget constraints.
+
+Maybe it’s not worth building out a varied collection of shoes straight away as a beginner, but it is worth knowing that it is an option.
 
