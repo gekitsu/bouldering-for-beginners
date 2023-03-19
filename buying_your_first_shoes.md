@@ -47,6 +47,8 @@ If you have been able to choose shoes on your shoe size alone so far, you should
 
 ### Shoe Size
 
+(TODO: shoe size illustration)
+
 <!-- * only length (to complicate matters: different brands fit large or small) -->
 Shoe size is probably the factor of shoe fit you’re most familiar with.
 It measures your foot’s length from the rearmost part of the heel to the most forward point of your toes.
@@ -67,6 +69,8 @@ But in general, it almost always pays off to try on several sizes of a given mod
 
 ### Width
 
+(TODO: foot width illustration)
+
 <!-- * wide to narrow, forefoot and heel -->
 In addition to their length, feet can also be described by their width.
 Commonly, this refers to the maximum width a foot reaches, across the forefoot, but whether you have wide or narrow heels is also a consideration.
@@ -81,6 +85,8 @@ While you can have the same model of shoe in multiple sizes and see which one is
 A given model might accomodate a spectrum of forefoot or heel widths, but if your foot still has sideways wiggle room in a correctly chosen size, that model does not fit your feet and you will have to find another one.
 
 ### Volume
+
+(TODO: foot volume illustration)
 
 <!-- * think ‘foot height’ or ‘flatness’, sometimes mild crossover into width (as more width = more displacement) -->
 We all know shoe size from buying sneakers and foot width is as straightforward and descriptive as it gets, but volume is neither an intuitive measurement nor something one has necessarily encountered before.
@@ -103,6 +109,8 @@ Note that height of the foot at the instep – the top of your foot – is not t
 You can have pronounced arches and your feet are still low volume just as well as flat feet can be high volume.
 
 ### Toe Profile
+
+(TODO: toe profile illustration)
 
 <!-- * several common ones, every brand deals with this differently -->
 The proportions of your toes can influence shoe fit, but this is not a cut and dry affair.
@@ -127,6 +135,8 @@ In addition to knowing about your feet, knowing about shoes is another useful as
 Climbing shoes are built on a sort of foot-shaped dummy called a *last*.
 You can think of this last as something like a body form or mannequin used in sewing.
 
+(TODO: last, parts, shoe illustration?)
+
 <!--* the shape of this last influences the fit and design of the shoe, as well as the choices of parts-->
 That means the last’s shape dictates the shape of the shoe and all the aspects of fit and design that entails.
 The choice of materials used in building a shoe on the last is the other factor in determining what sort of shoe it is going to be.
@@ -142,6 +152,8 @@ But also, knowing what the different parts are and what they do helps to underst
 The shoe’s body itself is called the upper.
 It consists of parts of material sewn together to cover the last like a sock.
 By itself, it is fairly floppy, but it’s the part of the shoe in contact with your feet and what the different bits of rubber, elastic, and closure system are attached to.
+
+(TODO: shoe illustration highlighting the upper)
 
 Uppers come in different materials.
 Leather is the old school choice, rugged and fairly breathable.
@@ -160,6 +172,8 @@ On the other hand, synthetic materials are more form-stable and don’t stretch 
 The midsole is a piece of plastic that is glued between the upper’s sole part and the outsole to add further resistance against flexing.
 This property of a shoe is called support or stiffness and we’ll treat it separately in the *Properties* section of this chapter.
 
+(TODO: shoe illustration highlighting midsole)
+
 Sadly, midsoles aren’t often advertised or described directly in manufacturer’s copy and aren’t easily accessible to reviewers either (without disassembling a shoe, that is), but their shape and material can make a lot of difference in how a shoe behaves.
 They come in all sorts of shapes from minimal slivers of thin plastic to full-length boards of substantial material.
 Some may even employ fancier materials like plastics molded to a certain shape instead of just being a flat sheet.
@@ -169,6 +183,8 @@ Some may even employ fancier materials like plastics molded to a certain shape i
 The outsole is the rubber piece you step on footholds with.
 It’s what you’d usually merely call ‘the sole’ if you didn’t need to make a difference between midsoles and outsoles.
 Naturally, it being where (almost literally) rubber meets road, it is a very important part of the shoe.
+
+(TODO: shoe illustration highlighting outsole, full/split designs)
 
 Climbing shoe outsoles don’t come in all sorts of tread designs – they’re all flat rubber sheeting – but they still come in different designs that excel at different things.
 A full length outsole covers the entire length of the shoe from toe to heel.
@@ -198,6 +214,8 @@ Closure systems are what keeps the shoe tight against your foot and make it resi
 You know these from your street shoes.
 In climbing shoes, they come with different advantages and disadvantages.
 
+(TODO: shoe illustrations showing different closure systems)
+
 Laces are the old school method.
 Most climbing shoe designs with laces have the lacing extend very far down the shoe, so you can get the exactly right amount of snugness at every part of the foot.
 They not only allow for a very finely tuned fit, they also allow for cinching down a great deal around narrow or low volume parts of your foot.
@@ -226,6 +244,8 @@ But the gist is that a narrow strap of zig-zagging webbing can reach further dow
 
 #### Rand & Tensioning
 
+(TODO: shoe ilustration highlighting rand and tensioning systems)
+
 The rand is a thinner strip of sheet rubber that runs at least around the forefoot of the shoe (but often also around the sides and the heel) to provide a structural frame to withstand the pressure of a snug fit.
 Imagine if you put your foot into a plain, floppy upper with a sole glued underneath it – your toes would push the upper material out over the tip of the sole on even a mildly tight fit.
 The forefoot area is also prone to abrasion, with the way we step with the very tip of the toe on small footholds and put the shoe’s tip right up against the wall.
@@ -241,6 +261,8 @@ But many more such systems are employed to make the shoe curl more into a downtu
 The heel cup is a sort of collective term for both the fit of the heel part of a shoe – how wide or narrow and how deep or shallow it is – and its design.
 The classic way of building a heel on a climbing shoe is to let the sole rubber extend back up the heel so you can use the thicker outsole rubber for heel hooks.
 
+(TODO: shoe illustration comparing traditional vs molded heel)
+
 Some shoes don’t have heels built up from strips of sheet rubber, but instead employ a heel cup made from a single piece of rubber molded into shape.
 These molded heel cups are usually much more resistant against deforming.
 Whether or not that is an advantage for you is a matter of taste.
@@ -248,6 +270,8 @@ A molded heel cup’s structural integrity can make it possible to use its edge 
 On the other hand, you might prefer a traditional heel cup’s higher sensitivity or that its squishiness can make it more accomodating to differently shaped heels.
 
 #### Toehook Patch
+
+(TODO: show illustration highlighting toehook patch)
 
 Some shoes have a piece of soft rubber on top of the toes and forefoot, maybe even reaching up to the midfoot, to give you more friction when employing a toehook.
 A simpler or more minimal design can just have the rand be a little wider over the big toe area, while a more aggressive design might have a big separate patch of extra sticky rubber glued on top of the shoe.
@@ -266,9 +290,13 @@ In these cases, it is possible that a manufacturer builds a softer and a stiffer
 
 #### Downturn
 
+(TODO: illustraton comparing no/low/high downturn)
+
 Downturn is the name for how much the shoe is in a banana shape when seen from the side.
 In other words, when the shoe’s tip of the sole and heel are resting on the ground, how far off the ground the midfoot is.
 No downturn means a flat sole.
+
+(TODO: downturn purpose illustration?)
 
 The purpose of downturn is mainly to change the angle of your toe to be more pointed downwards.
 That makes it easier to not just step on smaller footholds in overhanging walls but to pull on them with your feet.
@@ -279,6 +307,8 @@ It can also be an advantage on very small footholds where even a little bit of s
 Asymmetry is another factor you’ll most likely encounter when reading climbing shoe reviews.
 Like downturn, it describes a ‘bend’ in the shoe, but this time it’s about bending sideways instead of up and down.
 
+(TODO: illustration comparing low/high asymmetry)
+
 In part, asymmetry describes the toebox shape, seen from above.
 A less asymmetric shoe would have its frontmost point closer to the shoe’s centre line, while a more asymmetric shoe’s will be further off the centre line.
 
@@ -287,6 +317,8 @@ This shoe shape obviously can’t bend your foot to conform to it.
 Feet just don’t move that way.
 But when you put your foot into a sideways bent shoe and force it to conform to your feet, the shoe will push inwards against your toes and heels, from pinky to big toe.
 This extra force of shoe against feet will push your little toes into your big toe for a more compact fit in the toebox, as well as make the heel’s outside sit more snugly against your foot.
+
+(TODO: illustration showing asymmetric shoe vs foot pressures?)
 
 What is the tradeoff for all of this?
 Comfort.
@@ -306,6 +338,8 @@ Midsoles come not only in a variety of material stiffnesses, they also come in a
 The same stiffness material could be cut into a midsole the length of the shoe, or just a narrow crescent underneath the pads of your toes.
 So it’s not just about *how much* bending resistance a shoe provides, it’s also about *where* it provides that bending resistance (and where it doesn’t).
 Because this makes a big difference to how the shoe behaves, let’s talk about this in some more detail:
+
+(TODO: illustration comparing different support locations)
 
 A midsole that spans the entire sole of your foot (or close to it) will lend the most support.
 Underneath your toe tips, it will provide resistance against the shoe’s front edge flexing up and pinging off a foothold.
@@ -335,6 +369,8 @@ One factor of the toe box is which toe profile it fits well.
 Different manufacturers give different amounts of guidance on this, but it’s worth keeping in mind that a very pointy shoe might not do well on feet that don’t have much length difference between the toes, and vice versa.
 A good giveaway for this is when you can find a size that fits the pinky toe side of your feet snugly, but is too tight or too loose on the big toe, and the size that makes your big toe fit either squishes your pinky toes or gives them too much room.
 
+(TODO: illustration comparing high/low toe angle toeboxes)
+
 Furthermore, when you look at the toebox from the side, you can see that some are more flat while others give your toes a lot of vertical space.
 The latter indicate a shoe that wants your toes curled up against the front of the toebox, while a flatter toebox accomodates a less pressurised, more natural fit.
 
@@ -345,6 +381,8 @@ If you studied many manufacturers’ product catalogues, you have probably encou
 Usually, these variants combine several of the shoe last and shoe design choices mentioned so far.
 Of course, every manufacturer treats this differently, but it’s a safe assumption that a Women’s variant will be built on a somewhat narrower and lower volume last, and may be designed for lower bodyweight climbers, with a slightly softer midsole and maybe even with a stickier outsole rubber.
 For mysterious reasons, the Men’s variants usually come in a strong primary colour scheme (yellow or red dominant) while Women’s variants often sport secondary colours (mainly teal or purple).
+
+(TODO: illustration showing factors in men’s/women’s models?)
 
 Having two models of the same shoe for slightly different foot proportions sounds like a big benefit for climbers, right?
 If the sales department insists on labeling them by gender, why should we care, when we can just buy the model that fits our feet?
@@ -417,6 +455,8 @@ There should be no way for the shoe and the foot to move against each other.
 However, that is not a sufficient description because we’d also say that of a good fit for a hiking shoe.
 And yet, the hiking shoe should cradle the foot firmly while providing excess toebox room for your toes and forefoot to swell over the course of a hike, which is very much not what we want for a climbing shoe.
 
+(TODO: 1 illustration per paragraph of fit?)
+
 <!--* no dead space, especially in the toebox and heel (that means: even if they’re not crimped up against the toebox, the toes will have to touch it)-->
 To be more precise, we want a fit that has no dead space between foot and shoe, or as little as possible, especially in the toebox and heel.
 That means that even for a fit that does not have the toes crimped up against the toebox front, the toes will all make contact against the shoe.
@@ -461,7 +501,7 @@ Having to make a decision that will hold up after you get used to having snugly 
 Many climbers have a story about that one pair of shoes where they chose that half size too small.
 It’s definitely not an uncommon problem in the ongoing quest to find out what we can wear – but maybe try not to make your first pair the one where you went a step too far.
 
-(anonymous discord member quotes go here)
+(TODO: anonymous discord member quotes go here)
 
 <!--* knowledgeable and capable sales staff can be immensely helpful bridging your experience gap-->
 A further advantage to a good brick and mortar store is that you can have a knowledgeable salesperson next to you.
@@ -557,6 +597,8 @@ Finding the right point in time to send your shoes in for a resole is a bit tric
 When you send them in too early, you are wasting perfectly good rubber.
 If you wait too long, you might have to shell out for a more expensive repair – getting the rand fixed alongside the new sole – or even have worn it down so far it is beyond repair.
 Sadly, the points where you look at a shoe and think ‘oh, that doesn’t look like it’s supposed to’ tend to be on the too late side of things.
+
+(TODO: illustration showing degrees of wear)
 
 When you climb with a shoe, the points that wear down first are the frontmost edges of the outsole.
 On a new shoe, that edge is sharp.
