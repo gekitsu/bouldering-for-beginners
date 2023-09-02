@@ -233,6 +233,9 @@ This is a good short companion to the Bouldering Bobat videos on projecting abov
 Anna quickly shows her general stepwise process of tackling hard boulder problems, and then walks you through the solution she arrived at for a tricky slab boulder.
 Very useful for the level of detail in her narration of the beta she worked out.
 
+**Anna Hazelnutt – How to Stop Caring What Others Think at the Climbing Gym? A Video Essay**: [link](https://www.youtube.com/watch?v=rJAisiDIM74)\
+This is Anna at her very best – confronting a problem that can affect everyone from absolute beginner to seasoned pro and that isn’t *really* talked about – in a deeply human, optimistic, and humble way.
+
 **Jenn Sends – Getting Over the Fear of Falling (bouldering)**: [link](https://www.youtube.com/watch?v=ZFvRr-IeDnA)\
 This is a big topic that is likely to come up sooner or later in your bouldering career.
 Jenn goes over the basics in an approachable and structured way, and compiled a [playlist](https://www.youtube.com/playlist?list=PLfbHmBfB2hVXnVZhfEHv1PJfvChOdQbVA) of falling-related videos for you to get insight from more than one point of view.
