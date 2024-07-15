@@ -4,12 +4,13 @@
 
 <!--* buying your own climbing shoes the first thing to do when you think you’d want to take up this hobby-->
 Once you decide you’re going to stick with climbing, buying your own climbing shoes is the first thing to tackle.
-No matter which way you look at it, the investment is going to pay off compared to rentals sooner rather than later, and you’ll be climbing on significantly better shoes.
-In a way, having your own shoes is a sign that you’re a ‘real’ climber now (whatever that means).
+No matter which way you look at it, the investment is going to pay off compared to rental shoes sooner rather than later, and you’ll be climbing in much better shoes.
+In a way, having your own shoes is a sign that you’re a ‘real’ climber now.
+Whatever that means.
 
 However, choosing a good first pair of climbing shoes and sizing them correctly is not an easy task at the best of times.
 It isn’t made easier by how many problematic statements are floating around about the matter:
-‘You have to go at least X shoe sizes down from your street shoes’ (without telling whether that is supposed to be UK/US or EU sizes, and for climbing shoes of which manufacturer), ‘you absolutely have to wear the tightest thing you can cram your feet into, everything else is not worth it,’ ‘ignore the pain because you’ll get used to it,’ ‘you have to buy a certain type of shoe,’ …
+‘You have to go at least X shoe sizes down from your street shoes’ (without telling whether that is supposed to be UK/US or EU sizes, and for which manufacturer’s shoes), ‘you absolutely have to wear the tightest thing you can cram your feet into, everything else is not worth it,’ ‘ignore the pain because you’ll get used to it,’ ‘you have to buy a certain type of shoe,’ …
 The worst part is that within many of these statements is a tiny nugget of truth, but certainly not when taken as absolutes.
 
 This document exists as a way to collect a lot of the advice given to people asking about good first climbing shoes (or any variant of that question) in the Bouldering Bobat Discord server.
@@ -17,7 +18,7 @@ Hopefully, it is useful for giving you a deeper understanding of what goes into 
 
 ## TL;DR: Fit Is the Most Important Thing
 
-This is a long document, by choice, because it is a subject with a lot of nuance.
+This is a long document, by choice, because climbing shoe choice is a subject with a lot of nuance.
 No judgement if you don’t have the time to read through it all right now, so here is the most important parts, summed up:
 
 <!--* fit is paramount-->
@@ -29,7 +30,7 @@ Fit is different for everybody and depends on a lot of factors.
 Some of them are about the shape and proportions of your feet, others are about how used to are to wearing climbing shoes at this point in your climbing career.
 Good fit means:
 
-* Your feet can not move inside the shoe in any way
+* Your feet can not move around inside the shoe in any way
 * There is as little empty space between your foot and the shoe as possible (especially in the toebox area of the shoe)
 * Your toes are touching the front of the shoe
 * You can step on a foothold with the toe of the shoe and weight it
@@ -42,7 +43,7 @@ With how tricky it is to judge good fit correctly when you are new to this, *com
 
 ## Feet and How They Relate to Climbing Shoes
 
-Since a good fit is about matching shoes to feet, knowing about the shape of your feet is an important factor.
+Since a good fit is about matching shoes to feet, knowing about the shape of your feet is important.
 If you have been able to choose shoes on your shoe size alone so far, you should definitely consider thinking of your feet in terms of their width, volume, and overall shape as well, instead of just their length.
 
 ### Shoe Size
@@ -59,11 +60,16 @@ If, for example, a shoe is too wide or narrow, no amount of finding the right si
 
 Furthermore, shoe size is not a measure you determine once and you’re good.
 In non-climbing shoes, manufacturers can use shoe size to describe the average foot length for which a shoe is deemed suitable, the length of the shoe’s inside cavity, or the length of the last the shoe was built on.
-Depending on which sizing system a manufacturer is building shoes in ‘natively,’ size conversions to other systems may also be off by small degrees.
+Depending on which sizing system (EU, UK, US…) a manufacturer is building shoes in ‘natively,’ size conversions to other systems may also be off by small degrees.
 
 In climbing shoes specifically, how your street shoe size relates to climbing shoe size varies *greatly* between brands.
-Knowing that you got a great fit in one manufacturer’s EU size 40, another manufacturer’s shoes might fit you well 3 EU sizes (~2 UK/US sizes) off from that.
-For building up your experience of fitting climbing shoes, you’ll do well thinking of shoe size in terms of which *size* of what *brand* gave you what *sort of fit*.
+With climbing shoes being meant to fit much more snugly than a street shoe, a manufacturer could opt to make their shoe size accurately describe the shoe’s length.
+That means you need to get a smaller size to account for how much more tightly the shoe is supposed to fit.
+Instead, a manufacturer could try to make their shoe sizes relate more to the size of your foot, so you can choose your street shoe size for your climbing shoes.
+In that case, there is an inbuilt assumption how much tighter than a street shoe a climbing shoe ought to fit, and you will have to try whether your idea of a good fit is tighter or looser than theirs.
+
+Knowing that you got a great fit in one manufacturer’s EU size 40, another manufacturer’s shoes might easily give you that fit up to 3 EU sizes (~2 UK/US sizes) off from that.
+For building up your experience of fitting climbing shoes, you’ll do well thinking of shoe size in terms of which *size* of what *brand* gave you *what sort of fit*.
 
 But in general, it almost always pays off to try on several sizes of a given model to really find the one that is best for you.
 
@@ -73,16 +79,16 @@ But in general, it almost always pays off to try on several sizes of a given mod
 
 <!-- * wide to narrow, forefoot and heel -->
 In addition to their length, feet can also be described by their width.
-Commonly, this refers to the maximum width a foot reaches, across the forefoot, but whether you have wide or narrow heels is also a consideration.
+Commonly, this refers to the maximum width a foot reaches across the forefoot, but whether you have wide or narrow heels is also a consideration.
 
 Unlike shoe size, width is rarely described with a measuring system.
 (Although such systems exist!
-You can look up the Mondopoint system and the Brannock Device on Wikipedia for further information.)
+You can look up the [Mondopoint system](https://en.wikipedia.org/wiki/Shoe_size#Mondopoint) and the [Brannock Device](https://en.wikipedia.org/wiki/Brannock_Device) on Wikipedia for further information.)
 Rather, shoes are said to fit more on the wide or the narrow side, and you have to see for yourself whether they are any good for you.
 
 This is a crucial difference to shoe size:
 While you can have the same model of shoe in multiple sizes and see which one is the correct length for your feet, shoe models don’t usually come in different widths for you to try out.
-A given model might accomodate a spectrum of forefoot or heel widths, but if your foot still has sideways wiggle room in a correctly chosen size, that model does not fit your feet and you will have to find another one.
+A given model might accomodate a spectrum of forefoot or heel widths, but if your foot still has sideways wiggle room in a correctly chosen size, that model does not fit your feet and you will have to find a different one.
 
 ### Volume
 
@@ -98,7 +104,7 @@ You could also think of volume as the difference that makes a foot of a certain 
 To make matters worse, while shoe size has established measuring systems and width has rarely-used ones, there is no measurement scale for foot volume.
 The only guideline I have been able to find was advice from a ski boot fitter:
 If you take a tape measure from the inside rear of your heel over your instep and around to the outside rear of your heel, a length of around your foot length (plus/minus 1 cm or 1/2″) is a medium foot volume.
-A length larger or shorter than that indicates a high or low volume foot.
+A length larger or shorter than that indicates a high or low volume foot respectively.
 
 But all these are mere guidelines, not definite measurements.
 It is more important to be aware that feet differ in volume and being too high or too low volume is a way a shoe can not fit your foot well.
@@ -113,7 +119,7 @@ You can have pronounced arches and your feet are still low volume just as well a
 (TODO: toe profile illustration)
 
 <!-- * several common ones, every brand deals with this differently -->
-The proportions of your toes can influence shoe fit, but this is not a cut and dry affair.
+The proportions of your toes can influence shoe fit, but this is also not a cut and dry affair.
 
 Generally speaking, there is no agreed-upon list of ‘foot types’ and their names.
 Some typologies talk about ‘egyptian’, ‘greek’, and ‘roman’ feet, others say ‘square-toed,’ or ‘Morton’s toe.’
@@ -124,7 +130,7 @@ While it is somewhat obvious that when we want to fit shoes with toes touching t
 For example, it is possible to have a longer second toe, but it has so much range of motion that it comfortably makes your feet fit into a very pointy toe box with the point at your big toe.
 
 If in doubt, always try shoes on and see how they feel.
-But it is useful to keep in mind that mismatching toes and toe box can leave empty space in front of some toes or push too painfully against others.
+But it is useful to keep in mind that mismatching the shape of your toes and the shoe’s toe box can leave empty space in front of some toes or push too painfully against others.
 Both of these should be avoided, especially the latter.
 
 ## Anatomy of a Climbing Shoe
@@ -165,7 +171,7 @@ They will also breathe less.
 The other big group of materials is synthetics.
 Most of these are microfibre-based, such as Lorica, Alcantara, and too many more or less brand-name choices to list them all.
 They generally tend to breathe less well, which makes shoes smelly much easier than leather does.
-On the other hand, synthetic materials are more form-stable and don’t stretch much.
+On the other hand, synthetic materials are more dimensionally stable and don’t stretch much.
 
 #### Midsole
 
@@ -221,17 +227,17 @@ Most climbing shoe designs with laces have the lacing extend very far down the s
 They not only allow for a very finely tuned fit, they also allow for cinching down a great deal around narrow or low volume parts of your foot.
 Their biggest downside is that they require a long time to put on and take off.
 For bouldering, where you might want to take your shoes off between attempts, this is a much bigger impediment than it is for something like climbing a big wall.
-Another disadvantage is that the lacing reaching far down the shoe leaves less space down the toe for a big toehook patch.
+Another disadvantage is that the lacing reaching far down the shoe leaves less space on top of the foot for a big toehook patch.
 
 Velcro is the sweet spot that does everything well enough.
 Two or three straps of velcro allow for a reasonable amount of adaptability around the midfoot, leave some space on top of the forefoot for a toehook patch, and they go on and come off in seconds.
-Of course, having no way to tighten down near to the toes means that the toebox needs to fit your foot well, and your midfoot shouldn’t be so low in volume that you get barely any overlap of hook and loop portion of the velcro strap.
+Of course, having no way to tighten down near the toes means that the toebox needs to fit your foot well, and your midfoot shouldn’t be so low in volume that you get barely any overlap between the strap’s hook and loop portions.
 But there is a reason velcro shoes are everywhere.
 
 Slippers have no closure system per se, just elastic insets in the upper that pull the material close to your foot, like a stretchy sock.
 They have enormous space on top of the forefoot, and are taken off even faster than velcro shoes.
-However, they come with a much narrower spectum of foot shapes that fit them well enough – if your feet are just a bit too low volume, the elastic won’t provide enough to make the shoes stay on your feet.
-And even on a very good fit, they aren’t as securely fixed to your foot as a laceup or velcro shoe.
+However, they come with a much narrower spectrum of foot shapes that fit them well enough – if your feet are just a bit too low volume, the elastic won’t provide enough pull to make the shoes stay on your feet.
+And even on a very good fit, they aren’t as securely fixed to your foot as a lace-up or velcro shoe.
 Pulling on a heel hook might just be enough to pull the shoe off your foot instead of making you pull yourself up by the heel.
 
 The slipper with a single velcro strap tries to alleviate the slipper’s worst shortcomings:
@@ -240,7 +246,7 @@ The single strap might even be able to make up for a slightly too low volume upp
 
 Another way of closing shoes works by way of one or more webbing straps zig-zagging down the shoe and either having velcro at the top end or on a pull tab sliding along the strap.
 Every brand has their own way of implementing this sort of system, and they all have their own name for it.
-But the gist is that a narrow strap of zig-zagging webbing can reach further down the foot than a wide strap of velcro, so you get some of the benefits of a laceup shoe with some of the velcro shoe’s ease.
+But the gist is that a narrow strap of zig-zagging webbing can reach further down the foot than a wide strap of velcro, so you get some of the benefits of a lace-up shoe with some of the velcro shoe’s ease.
 
 #### Rand & Tensioning
 
@@ -249,7 +255,7 @@ But the gist is that a narrow strap of zig-zagging webbing can reach further dow
 The rand is a thinner strip of sheet rubber that runs at least around the forefoot of the shoe (but often also around the sides and the heel) to provide a structural frame to withstand the pressure of a snug fit.
 Imagine if you put your foot into a plain, floppy upper with a sole glued underneath it – your toes would push the upper material out over the tip of the sole on even a mildly tight fit.
 The forefoot area is also prone to abrasion, with the way we step with the very tip of the toe on small footholds and put the shoe’s tip right up against the wall.
-A rand provides more abrasion resistance than the plain upper material would provide.
+A rand provides more abrasion resistance than the plain upper material would.
 
 Many shoes have more rubber strips glued around them in varying patterns.
 These are mostly to put some level of tension on the shoe to make it want to spring into a certain shape.
@@ -293,7 +299,7 @@ In these cases, it is possible that a manufacturer builds a softer and a stiffer
 (TODO: illustraton comparing no/low/high downturn)
 
 Downturn is the name for how much the shoe is in a banana shape when seen from the side.
-In other words, when the shoe’s tip of the sole and heel are resting on the ground, how far off the ground the midfoot is.
+In other words, when the shoe’s tip and heel are resting on the ground, how far off the ground the midfoot is.
 No downturn means a flat sole.
 
 (TODO: downturn purpose illustration?)
@@ -315,8 +321,9 @@ A less asymmetric shoe would have its frontmost point closer to the shoe’s cen
 Asymmetry also describes the amount of sideways banana shape a shoe has – toe and heel pointing inward, midfoot bowed outward.
 This shoe shape obviously can’t bend your foot to conform to it.
 Feet just don’t move that way.
-But when you put your foot into a sideways bent shoe and force it to conform to your feet, the shoe will push inwards against your toes and heels, from pinky to big toe.
+But when you put your foot into a sideways bent shoe and force it to conform to your feet, the shoe will push inwards against your heel and toes, from pinky to big toe.
 This extra force of shoe against feet will push your little toes into your big toe for a more compact fit in the toebox, as well as make the heel’s outside sit more snugly against your foot.
+Both of these can be beneficial when putting as much weight as possible through a tiny bit of space under your big toe, or pulling through the outer part of the heel to hook on a feature.
 
 (TODO: illustration showing asymmetric shoe vs foot pressures?)
 
@@ -335,9 +342,9 @@ In addition, the outsole’s design and thickness will lend some structural inte
 
 I think it is insufficient to think of shoes as having a single degree of stiffness.
 Midsoles come not only in a variety of material stiffnesses, they also come in a wide variety of shapes.
-The same stiffness material could be cut into a midsole the length of the shoe, or just a narrow crescent underneath the pads of your toes.
+The same material could be cut into a midsole the length of the shoe, or just a narrow crescent underneath the pads of your toes.
 So it’s not just about *how much* bending resistance a shoe provides, it’s also about *where* it provides that bending resistance (and where it doesn’t).
-Because this makes a big difference to how the shoe behaves, let’s talk about this in some more detail:
+Because this makes a big difference in how the shoe behaves, let’s talk about this in some more detail:
 
 (TODO: illustration comparing different support locations)
 
@@ -352,7 +359,7 @@ A drawback of midsoles providing this much support is that you will have a harde
 
 Midsoles that provide stiffness mainly in the forefoot will retain the shoe’s stability at the tip of your toes on small holds, but make it much easier to bend at the balls of your feet.
 That means it is easier for your feet to tire out on sustained climbing, but will give you much more technical versatility in exchange.
-We believe that this sort of midsole is the most versatile overall, and the best choice for most climbers unless their discipline requires full-foot support.
+I believe that this sort of midsole is the most versatile overall, and the best choice for most climbers unless their discipline requires full-foot support.
 For sport climbing and especially bouldering, highly sustained effort is rarely a factor, but the versatility to more easily stand on a shallow volume or smear on sheer rock will be a big benefit.
 
 Finally, the most minimal midsoles will only provide stability across the very front of your shoe, just underneath of your toe tips.
@@ -371,8 +378,9 @@ A good giveaway for this is when you can find a size that fits the pinky toe sid
 
 (TODO: illustration comparing high/low toe angle toeboxes)
 
-Furthermore, when you look at the toebox from the side, you can see that some are more flat while others give your toes a lot of vertical space.
-The latter indicate a shoe that wants your toes curled up against the front of the toebox, while a flatter toebox accomodates a less pressurised, more natural fit.
+Furthermore, when you look at toeboxes from the side, you can see that some are more flat while others give your toes a lot of vertical space.
+The latter indicate a shoe that wants your toes curled up against the front of the toebox, while a flatter toebox accomodates a less pressurised, more natural fit with the toes laying flatter.
+When you have difficulties enduring the pressure of a shoe that curls your toes against the front, sizing a tall toebox up to make your toes lay flat in it will leave a lot of empty space on top of your toes.
 
 #### Men’s & Women’s? What’s the Deal?
 
@@ -391,7 +399,10 @@ In reality, there is one more constraint:
 Where a given shoe’s Men’s variant is available in a reasonable array of sizes (let’s say EU 34–46.5, UK 2–11.5, USM 3–12.5, USW 4.5–14), the Women’s model can easily only be available in a reduced subset (something like EU 34–42, UK 2–8, USM 3–9, USW 4.5–10.5).
 And all this for no real reason.
 
-Fortunately, at the time of writing (early 2023), it is becoming increasingly more common for manufacturers to sell a high volume and a low volume (often labeled ‘HV’ and ‘LV’) variant of a given model across the full spectrum of sizes without any further assumptions.
+If you need a lower volume shoe at larger size, maybe even without reduced support because you are taller and heavier, this gendered combination of multiple independent aspects will not do you many favours.
+
+Fortunately, at the time of writing (mid-2024), it is becoming increasingly more common for manufacturers to sell a high volume and a low volume (often labeled ‘HV’ and ‘LV’) variant of a given model across the full spectrum of sizes without any further assumptions.
+Let’s hope this trend continues.
 
 #### Neutral, Moderate & Aggressive? What’s That About?
 
@@ -409,6 +420,9 @@ There are also shoe models built to perform at the highest level, but on long mu
 These high performance shoes will look very different than an ‘aggressive’ shoe.
 
 ## How to choose Your First Shoe
+
+Now that we have a lot of theoretical knowledge out of the way, let’s get to the actionable part of this guide:
+How to actually go about buying that first pair of shoes.
 
 ### Demands Placed On a First Shoe
 
@@ -430,17 +444,18 @@ A thicker outsole or a rubber compound favouring durability are beneficial for t
 Hence, many common beginners’ shoe models look somewhat similar:
 They have no downturn, low asymmetry, low tensioning, a toebox accomodating toes laying flat instead of being all the way crimped up, stiff full-length midsoles and thick outsoles of lower-performance rubber.
 And that’s not a bad design direction.
-It makes the shoe less demanding to fit, supportive enough to not put a lot of strain on your feet, and it can leave a lot of dark rubber streaks on the wall without wearing through the sole.
+It makes the shoe less demanding to fit, generally feel less uncomfortable, supportive enough to not put a lot of strain on your feet, and it can leave a lot of dark rubber streaks on the wall without wearing through the sole.
+Coincidentally, all of these also tend to make a shoe less expensive to manufacture and therefore, its price tag stays lower as well.
 
 However, that isn’t unavoidably the only way a shoe for a beginner has to look.
 There is a long argument whether it is worth to buy a beginners’ shoe, only to buy a more bouldering-specific moderately aggressive shoe a short time later.
 A counterpoint to that argument is that many shoes marketed at intermediate climbers don’t present a big enough step up in quality to justify how much closer to the uppermost price tier they are.
 
-Be all that as it may, here is one line of argument some shoe manufacturers have been following:
+Be all that as it may, here is one more line of argument some shoe manufacturers have been following:
 Compared to climbing on rock, indoor climbing has larger and more positive footholds.
 And in the times of competition climbing and the Olympics, indoor climbing has morphed into a distinct discipline from being a mere training grounds for the great outdoors.
 Modern gym climbing features walking with aggressive smears on big volumes, and even the lower grades come with formerly high level techniques like toe- and heelhooks in steep overhangs.
-Meanwhile, the classic beginners’ shoe outlined above is still modeled after the demands of the outdoor climbs a beginner might face – smaller footholds on vertical walls.
+Meanwhile, the classic beginners’ shoe outlined above is still modeled after the demands of the outdoor climbs a beginner might face – smaller footholds on sustained vertical walls.
 According to that logic, a beginner gym climber would get more use out of a softer shoe with a more ‘bouldery’ feature set, as long as it isn’t so aggressive that it demands a very cramped fit.
 
 ### What Does Fit Really Mean?
@@ -475,13 +490,13 @@ In a properly fitting shoe, you can step with your big toe on a foothold and wei
 With all this established, how best to go about finding a shoe?
 
 <!--* try many models, even those you didn’t have on your radar-->
-The first recommendation we have is to try on as many models as you can.
+The first recommendation is to try on as many models as you can.
 Even ones you didn’t have on your radar.
 The more different shoes you’ve had on your feet, the larger the variety of sensations to base your choice on.
 
 <!--* try many sizes, sit with each pair for a while to get past the initial reaction of ‘ow ow ow’ as best as possible-->
 The second recommendation is to try many sizes of each model to tease out what you can and can not bear on your feet.
-Sitting with the shoes on your feet for a while can help overcome the initial painful impression to a degree, and is definitely worth the time.
+Just sitting with the shoes on your feet for a while (~10–15 minutes) can help overcome the initial painful impression to a degree, and is definitely worth the time.
 
 <!--* that makes brick and mortar stores better than online, even if they’re more expensive than online shopping-->
 Both of these recommendations make well-stocked brick and mortar stores a better choice than shopping online, even if they are a little more expensive.
@@ -492,14 +507,21 @@ Most stores that sell climbing shoes provide either a short section of climbing 
 After the initial acclimatisation period to the shoe, try stepping on a foothold with your big toe and weighting it.
 Expect this to feel more painful than just having the shoes on, but it should still be a bearable (if not really *fun*) sensation.
 
+I learned this tip from a very helpful gentleman at a local hiking/outdoors store:
+He wasn’t a climber himself, and probably not someone I would consult now about minute differences in bouldering shoes, but he was really good at setting expectations for a beginner (‘you are going to buy a pair of shoes that feel *too small*’) and getting fit right.
+He had me just sit with each pair of shoes on my feet for 15 minutes before making me step on footholds and would feel how my toes were laying in each different size.
+(Remember: Touching the front, but not necessarily all crimped up against it.)
+Finally, after one half size step down that had me go ‘Oh, that is way more painful,’ he had me quickly hop in a half size up again and step on footholds right away – the way this felt very bearable all of a sudden was a big hint that the smallest size was one step too small.
+
 <!--* the big difficulty is to discern pain of not being used to this sensation (you will get used to it) and pain from trying to fit your feet into too small shoes (you will/should not get used to this)-->
 The big difficulty in this process is to tell apart the pain of not being used to the sensation of wearing a snugly fitting shoe and the pain from having your feet in shoes that are too small.
 You will get used to the former relatively quick, but you will (or should) not get used to the latter.
-Having to make a decision that will hold up after you get used to having snugly fitted climbing shoes on your feet, while not yet being used to it, is what makes your first pair of shoes tricky.
+Having to make a decision that will hold up after you get used to having snugly fitted climbing shoes on your feet, while not yet being used to it, is what makes your first pair of shoes especially tricky.
+Hence the recommendation to take your time with each pair, go back and forth between sizes you’re not sure about, and to try them on climbing footholds.
 
 <!--* almost every climber i know has a story of that one pair of too small shoes they bought – maybe try not to make these your first pair (anonymous quotes from discord members?)-->
 Many climbers have a story about that one pair of shoes where they chose that half size too small.
-It’s definitely not an uncommon problem in the ongoing quest to find out what we can wear – but maybe try not to make your first pair the one where you went a step too far.
+It’s definitely not an uncommon problem in the ongoing quest to find out what we can bear wearing – but maybe try not to make your first pair the one where you went a step too far.
 
 (TODO: anonymous discord member quotes go here)
 
@@ -507,7 +529,7 @@ It’s definitely not an uncommon problem in the ongoing quest to find out what 
 A further advantage to a good brick and mortar store is that you can have a knowledgeable salesperson next to you.
 Good staff isn’t ubiquitous, of course, and you’re more likely to find specialised knowledge in a dedicated climbing store than in a general outdoors store’s tiny climbing aisle.
 This is where word of mouth comes in helpful again.
-Sales staff with experience in helping new climbers find shoes can be a very potent tool to bridge your experience gap, don’t underestimate it.
+Sales staff with experience in helping new climbers find shoes can be a very powerful tool to bridge your experience gap, don’t underestimate it.
 Just be wary of people recommending to size down, size down, size down, without any further differentiation, or people who don’t take their time with you.
 Look out for attentiveness, not trying to rush you, and trying to arrive at a choice that works for you.
 
@@ -542,7 +564,7 @@ And as a beginner especially, you’re doing yourself a favour easing into how t
 
 ## Down the Road
 
-Now that you are the proud owner of your first pair of well-fitting climbing shoes, we won’t keep you from climbing much longer.
+Now that you are the proud owner of your first pair of well-fitting climbing shoes, I won’t keep you from climbing much longer.
 But here are a few best practises or bits of knowledge to keep in mind that might come in helpful in the (near?) future:
 
 ### Shoe Care Basics
@@ -564,6 +586,15 @@ Washing your feet is a good idea in general, so if you are in need of an incenti
 <!--* it’s easier to keep ahead of stink than to fix it when it happens-->
 All the available products like shoe disinfectants or bags of moisture-binding aromatised ingredients to place in your shoes notwithstanding, it is easier to stay ahead of stink developing than it is to play catch up and try to get rid of it.
 
+<!--* if the shoes stink, cleaning is in order-->
+If you are getting behind in the race against shoe smell, it’s time to clean your shoes.
+Stay away from high temperatures because it will soften the glue that keeps your shoes together.
+That also rules out the washing machine – a scrubbing brush and a mild application of elbow grease are your friend.
+Cleaning supplies that leave a residue can be problematic by making your shoes slippery on the inside.
+For what it’s worth, I have had good success cleaning my shoes with household vinegar (~5–10% acetic acid) in a ~50 parts water to 1 part vinegar dilution.
+The acidic pH over the time it takes for the shoes to dry seems pretty good at making it inhabitable for the accumulated stink-causing bacteria.
+Freezing your shoes is still recommended every so often, but frost will only make bacteria dormant, not kill them.
+
 <!--* many many factors in shoes becoming smelly, so hard to have a one-size-fits-all solution-->
 Sadly, this isn’t a straightforward problem with only a few possible causes.
 It doesn’t affect every climber equally, and it can have a whole lot of factors playing into it.
@@ -573,8 +604,8 @@ So what we can do in a guide like this is mention a couple sound best practises 
 ### Resoling
 
 <!--* what is resoling-->
-Resoling strictly means to take off the shoe’s outsole and replace it with a new one.
-It is a task climbing shoe repair shops can do for you, alongside others like replacing a torn closure strap or replacing a worn through rand.
+Resoling means to take off the shoe’s outsole and replace it with a new one.
+It is a task climbing shoe repair shops can do for you, alongside others like replacing a torn closure strap or patching a worn through rand.
 
 <!--* why resole-->
 Why should you bother with resoling?
@@ -605,7 +636,7 @@ On a new shoe, that edge is sharp.
 With use, it becomes more and more rounded and somewhat less easy to place precisely and with authority on a very narrow foothold.
 Once this rounding of the front edge has progressed so far that the seam between outsole and rand took a shallow dip, it’s time to think about resoling.
 
-If you wait with a repair after that point, you’ll expose not only the outsole at the front to abrasion, but also the much thinner rand rubber.
+If you wait with a repair after that point, you’ll expose not only the outsole to abrasion, but also the much thinner rand rubber.
 Eventually, you’ll start seeing the upper material peek through between a worn through rand and a worn back outsole.
 With *even more* climbing, you might even wear through the upper material and make your toe peek out.
 At that point, it should be evident that not even a replaced rand will put the shoe in a very good state.
