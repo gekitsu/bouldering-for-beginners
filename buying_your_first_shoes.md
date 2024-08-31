@@ -18,8 +18,8 @@ Hopefully, it is useful for giving you a deeper understanding of what goes into 
 
 ## TL;DR: Fit Is the Most Important Thing
 
-This is a long document, by choice, because climbing shoe choice is a subject with a lot of nuance.
-No judgement if you don’t have the time to read through it all right now, so here is the most important parts, summed up:
+This is a long document, on purpose, because climbing shoe choice is a subject with a lot of nuance.
+No judgement if you don’t have the time to read through it all right now, so here are the most important parts, summed up:
 
 <!--* fit is paramount-->
 Fit is the most important factor in choosing a climbing shoe.
@@ -103,7 +103,7 @@ You could also think of volume as the difference that makes a foot of a certain 
 
 To make matters worse, while shoe size has established measuring systems and width has rarely-used ones, there is no measurement scale for foot volume.
 The only guideline I have been able to find was advice from a ski boot fitter:
-If you take a tape measure from the inside rear of your heel over your instep and around to the outside rear of your heel, a length of around your foot length (plus/minus 1 cm or 1/2″) is a medium foot volume.
+If you take a tape measure from the inside rear of your heel over your instep and around to the outside rear of your heel, a length of roughly your foot length (plus/minus 1 cm or 1/2″) is a medium foot volume.
 A length larger or shorter than that indicates a high or low volume foot respectively.
 
 But all these are mere guidelines, not definite measurements.
@@ -173,6 +173,8 @@ Most of these are microfibre-based, such as Lorica, Alcantara, and too many more
 They generally tend to breathe less well, which makes shoes smelly much easier than leather does.
 On the other hand, synthetic materials are more dimensionally stable and don’t stretch much.
 
+Recently, some manufacturers have experimented with knit-type materials for a more stretchy and breathable upper, but potentially at the cost of durability.
+
 #### Midsole
 
 The midsole is a piece of plastic that is glued between the upper’s sole part and the outsole to add further resistance against flexing.
@@ -180,7 +182,7 @@ This property of a shoe is called support or stiffness and we’ll treat it sepa
 
 (TODO: shoe illustration highlighting midsole)
 
-Sadly, midsoles aren’t often advertised or described directly in manufacturer’s copy and aren’t easily accessible to reviewers either (without disassembling a shoe, that is), but their shape and material can make a lot of difference in how a shoe behaves.
+Sadly, midsoles aren’t often advertised or described directly in manufacturers’ copy and aren’t easily accessible to reviewers either (without disassembling a shoe, that is), but their shape and material can make a lot of difference in how a shoe behaves.
 They come in all sorts of shapes from minimal slivers of thin plastic to full-length boards of substantial material.
 Some may even employ fancier materials like plastics molded to a certain shape instead of just being a flat sheet.
 
@@ -382,7 +384,7 @@ Furthermore, when you look at toeboxes from the side, you can see that some are 
 The latter indicate a shoe that wants your toes curled up against the front of the toebox, while a flatter toebox accomodates a less pressurised, more natural fit with the toes laying flatter.
 When you have difficulties enduring the pressure of a shoe that curls your toes against the front, sizing a tall toebox up to make your toes lay flat in it will leave a lot of empty space on top of your toes.
 
-#### Men’s & Women’s? What’s the Deal?
+#### Men’s & Women’s Shoes? What’s the Deal?
 
 <!-- * often a conglomerate of factors: women’s models generally a narrower, lower volume foot, AND ALSO softer or built for less body weight -->
 If you studied many manufacturers’ product catalogues, you have probably encountered ‘Men’s’ and ‘Women’s’ variants of the same shoe model.
@@ -433,7 +435,7 @@ These are the leading questions that will inform a lot of the decisions that are
 <!--* a step-up from rentals, better materials, higher quality-->
 If you are going from rental shoes to your first own pair, you’ll probably want them to be a step up in quality.
 That means better materials and higher build quality.
-With rental shoes having to endure mileage and abuse at the expense of nearly everything else, this is going to be easy to fulfill.
+With rental shoes having to endure mileage and abuse at the expense of nearly everything else, this is going to be easy to achieve.
 
 <!--* learning and improving technique-->
 As a climber early in their climbing career, you’ll probably want to learn and improve your technique as well.
@@ -455,7 +457,7 @@ Be all that as it may, here is one more line of argument some shoe manufacturers
 Compared to climbing on rock, indoor climbing has larger and more positive footholds.
 And in the times of competition climbing and the Olympics, indoor climbing has morphed into a distinct discipline from being a mere training grounds for the great outdoors.
 Modern gym climbing features walking with aggressive smears on big volumes, and even the lower grades come with formerly high level techniques like toe- and heelhooks in steep overhangs.
-Meanwhile, the classic beginners’ shoe outlined above is still modeled after the demands of the outdoor climbs a beginner might face – smaller footholds on sustained vertical walls.
+Meanwhile, the classic beginners’ shoe outlined above is still modeled after the demands of the outdoor climbs a beginner might face – smaller footholds on sustained vertical or slabby walls.
 According to that logic, a beginner gym climber would get more use out of a softer shoe with a more ‘bouldery’ feature set, as long as it isn’t so aggressive that it demands a very cramped fit.
 
 ### What Does Fit Really Mean?
@@ -492,7 +494,7 @@ With all this established, how best to go about finding a shoe?
 <!--* try many models, even those you didn’t have on your radar-->
 The first recommendation is to try on as many models as you can.
 Even ones you didn’t have on your radar.
-The more different shoes you’ve had on your feet, the larger the variety of sensations to base your choice on.
+The more different shoes you’ve had on your feet, the larger the variety of sensations and experience to base your choice on.
 
 <!--* try many sizes, sit with each pair for a while to get past the initial reaction of ‘ow ow ow’ as best as possible-->
 The second recommendation is to try many sizes of each model to tease out what you can and can not bear on your feet.
@@ -594,6 +596,7 @@ Cleaning supplies that leave a residue can be problematic by making your shoes s
 For what it’s worth, I have had good success cleaning my shoes with household vinegar (~5–10% acetic acid) in a ~50 parts water to 1 part vinegar dilution.
 The acidic pH over the time it takes for the shoes to dry seems pretty good at making it inhabitable for the accumulated stink-causing bacteria.
 Freezing your shoes is still recommended every so often, but frost will only make bacteria dormant, not kill them.
+So by the time your shoes are warmed up by your feet again, the bacteria will be there and ready to produce stink as well.
 
 <!--* many many factors in shoes becoming smelly, so hard to have a one-size-fits-all solution-->
 Sadly, this isn’t a straightforward problem with only a few possible causes.
