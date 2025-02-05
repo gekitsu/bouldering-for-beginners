@@ -679,3 +679,32 @@ The sale strategy might be a way to make this maximalist approach work for more 
 
 Maybe it’s not worth building out a varied collection of shoes straight away as a beginner, but it is worth knowing that it is an option.
 
+### Thoughts About Climbing Shoe Sizing in Your Future
+
+<!-- * with use, wear sensation of current shoes will change -->
+With a few weeks of climbing in your shoes, you’ll notice that the way they feel will change quite a bit.
+When your feet get used to being touched by shoes even around the toes, the main factor of what made the shoes feel painful when you bought them will be gone.
+You will still feel a sensation of tightness, and high pressure on small footholds can still be very uncomfortable, but it’s all more differentiated.
+It doesn’t seem so outlandish anymore that people can mention the terms ‘climbing shoe’ and ‘comfortable’ in the same sentence.
+
+<!-- * with future shoes, this will continue to happen, to an increasingly lessening degree -->
+When you buy new shoes that are a little tighter – not to as uncomfortable a sensation as the first pair because ‘the edge is taken off,’ so to speak – this phenomenon is likely to continue.
+But given that your feet are a certain size and you can only compress them so far, you can’t expect a change to the degree you just went through.
+
+<!-- * for a while, this can come with tangible performance benefits, but not forever -->
+For a while, this ability to bear more compression painlessly can come with performance benefits.
+I’d imagine you have shoes in which your toes are laying comparatively flat, and with mild pressure against the toebox.
+If you take this up to flat-toed shoes and a bit more pressure, and eventually shoes that want your toes to be curled against the front, you can get better ability to stand well on smaller footholds out of that.
+But, again, since your feet are a certain size and you can only compress them so much before you’re putting them in a shape that’s going to overstrain what its joints aren’t meant to provide, this doesn’t go on forever.
+
+<!-- * long-term, wearing too tight shoes can cause harm (morton’s neuroma) -->
+Wearing too tight shoes over a long time can even cause harm, such as [Morton’s Neuroma](https://en.wikipedia.org/wiki/Morton%27s_neuroma).
+This is when compression of feet puts pressure on nerves that run between the bones of your middle foot.
+At first, this causes sensations of tingling and then progresses to pain, as the impinged nerve develops swelling.
+While this isn’t likely to be an issue for you in the immediate future, it’s worth keeping in mind that tighter climbing shoes aren’t worth pursuing for their own sake.
+
+<!-- * as tight as humanly possible fit isn’t necessary anymore, develop a good point of tightness over the next 2, maybe 3 pairs, but don’t overdo it -->
+Thankfully, fitting climbing shoes as tight as humanly possible isn’t really needed anymore.
+Performant shoes nowadays can bring their potential to bear on a much more moderate fit than in the olden times.
+You can feel out what’s a good point of tightness for you over the next 2 or 3 pairs you buy, but there’s no need to overdo it.
+
