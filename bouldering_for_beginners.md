@@ -291,8 +291,15 @@ It is an apt description, and totally worth checking out for its charm and heart
 Annie and Di from London are friends of the Bobats, just as goofy, and an absolute joy to watch!
 Also interesting for climbers at either end of the body height spectrum, as Annie and Di frequently have to find tall-girl and short-girl beta for their climbs.
 
+**Erin McNeice**: [link](https://www.youtube.com/@ErinMcNeiceClimbing)\
+Erin is a competitive climber from the UK who wowed the world with her performance in the 2024 Olympic Games in Paris.
+Lots of high level training, reviews of her World Cup outings, and so on.
+
 **Hannah Morris**: [link](https://www.youtube.com/user/hcemorris)\
 Hannah from the UK is making videos that are heavier on outdoor bouldering than the others, and with very a pleasant, storytelling-heavy style.
+
+**Jana Svecova**: [link](https://www.youtube.com/@JaneSvecova)\
+Jana from Czechia is an incredibly strong boulderer who focuses on both her intense training and the hard sends it powers.
 
 **Jenn Sends**: [link](https://www.youtube.com/channel/UCaQ7laUNRnsAwk6KbPwtJIg)\
 Jenn from LA, California is really good at giving off chill welcoming vibes.
@@ -319,6 +326,10 @@ A canadian living in London.
 He regularly makes videos with the legendary Louis Parkinson, the man who can campus everything.
 Like Magnus, Louis seems like the nicest and most helpful kind of chap, so you can’t even be angry at him being so strong.
 And when Andrew starts flexing his video production chops, you’re going to be in for a treat.
+
+**Daniel Woods**: [link](https://www.youtube.com/@dawoods89)\
+The elder statesman of bouldering, according to Alex Honnold.
+Mostly personal videos of hard bouldering on rock and absurd feats of locking off on tiny crimps.
 
 **Dave MacLeod**: [link](https://www.youtube.com/user/davemacleod1)\
 A scottish pro climber for 25 years who can do it all, from bouldering to ice climbing to nerding out about nutrition and science.
@@ -349,6 +360,14 @@ These folks are the real deal.
 A channel run by japanese top climbers Tomoa & Meichi Narasaki, Akiyo Noguchi, and Yudai ‘Ikedai’ Ikeda.
 They have a good mix of tutorial-style and personal/fun videos, all with english subtitles.
 
+**Wedge Climbing**: [link](https://www.youtube.com/@WEDGECLIMBING)\
+Sam Lawson’s channel has *very* beautifully shot videos of strong UK climbers (often Jim Pope or Aidan Roberts!) either sending hard on rock or training on the eternal mainstay of hard training on the island:
+A ratty-looking home board in the cellar.
+
 **Wide Boyz**: [link](https://www.youtube.com/c/WideBoyz)\
 Tom Randall and Pete Whittaker are among the world’s strongest climbers of rock cracks – any angle and any width, from fitting a single finger to half a body, chances are these two can climb up it.
 They are singularly focused on a style of climbing you are unlikely to see too much of in gyms.
+
+**Will Bosi**: [link](https://www.youtube.com/@WilliamBosi)\
+An immensely strong sport climber and boulderer from Scotland, who always seems to have climbed more 9A/V17 boulder problems than everybody else.
+Will’s videos are pretty much exclusively about climbing on rock.
